@@ -14,7 +14,7 @@ function Books({ Component, pageProps }) {
         `}
       </style>
       <Head>
-        <title>books.market</title>
+        <title>bookclub.market</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&display=swap"
