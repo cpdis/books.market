@@ -37,7 +37,7 @@ const IndexPage = ({ books, lastUpdate }: Props) => {
       <h1 className="text-lg md:text-3xl">Book Club</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {books.length} bags for sale with books. The floor
+          There are {books.length} bags for sale with books and tomes. The floor
           price is {books[0].price} ETH.
         </p>
         <p className="md:text-lg pt-2">
