@@ -13757,5 +13757,4435 @@
       "ring": "\"Demon Shout\" Silver Ring of Detection +1",
       "waist": "Leather Belt",
       "weapon": "Grimoire"
+    },
+    "18": {
+      "chest": "Leather Armor",
+      "foot": "Dragonskin Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "Divine Hood",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"59": {
+      "chest": "Linen Robe",
+      "foot": "Chain Boots of Reflection",
+      "hand": "\"Vengeance Root\" Divine Gloves of Brilliance",
+      "head": "\"Vengeance Root\" Linen Hood of Brilliance",
+      "neck": "\"Dread Bite\" Pendant of Power +1",
+      "ring": "Bronze Ring",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"81": {
+      "chest": "Shirt",
+      "foot": "Dragonskin Boots",
+      "hand": "Heavy Gloves",
+      "head": "Linen Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"84": {
+      "chest": "\"Golem Sun\" Studded Leather Armor of Anger",
+      "foot": "Ornate Greaves",
+      "hand": "Leather Gloves",
+      "head": "Full Helm",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"86": {
+      "chest": "Ring Mail",
+      "foot": "Divine Slippers",
+      "hand": "Dragonskin Gloves",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"108": {
+      "chest": "Dragonskin Armor",
+      "foot": "Leather Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Ornate Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"136": {
+      "chest": "Divine Robe",
+      "foot": "Divine Slippers",
+      "hand": "Gauntlets",
+      "head": "War Cap",
+      "neck": "\"Rage Moon\" Pendant of Giants +1",
+      "ring": "Gold Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"150": {
+      "chest": "Plate Mail",
+      "foot": "Dragonskin Boots",
+      "hand": "Leather Gloves of the Fox",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Linen Sash of the Twins",
+      "weapon": "Chronicle of Vitriol"
+    },
+"159": {
+      "chest": "Dragonskin Armor",
+      "foot": "\"Morbid Sun\" Ornate Greaves of Anger",
+      "hand": "Studded Leather Gloves",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"168": {
+      "chest": "Ornate Chestplate",
+      "foot": "Ornate Greaves",
+      "hand": "Wool Gloves",
+      "head": "Full Helm",
+      "neck": "Necklace",
+      "ring": "Bronze Ring of the Fox",
+      "waist": "Ornate Belt of Titans",
+      "weapon": "Chronicle of Brilliance"
+    },
+"202": {
+      "chest": "Ring Mail",
+      "foot": "\"Maelstrom Sun\" Ornate Greaves of Enlightenment",
+      "hand": "Holy Gauntlets",
+      "head": "\"Armageddon Bite\" Hood of Titans +1",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"260": {
+      "chest": "Dragonskin Armor",
+      "foot": "Divine Slippers",
+      "hand": "Dragonskin Gloves of Protection",
+      "head": "Crown",
+      "neck": "\"Rage Grasp\" Pendant of Rage +1",
+      "ring": "\"Apocalypse Root\" Titanium Ring of Brilliance",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"276": {
+      "chest": "Divine Robe",
+      "foot": "Leather Boots of Anger",
+      "hand": "Gloves",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Fury",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"296": {
+      "chest": "Shirt",
+      "foot": "Heavy Boots of Perfection",
+      "hand": "Hard Leather Gloves",
+      "head": "Demon Crown",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"299": {
+      "chest": "Chain Mail",
+      "foot": "Holy Greaves",
+      "hand": "Gauntlets",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Platinum Ring of Fury",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"342": {
+      "chest": "Leather Armor",
+      "foot": "Hard Leather Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "\"Havoc Glow\" Ornate Helm of Rage",
+      "neck": "Pendant",
+      "ring": "Silver Ring of Vitriol",
+      "waist": "\"Morbid Root\" Linen Sash of Detection",
+      "weapon": "Chronicle"
+    },
+"359": {
+      "chest": "Holy Chestplate",
+      "foot": "Wool Shoes",
+      "hand": "Dragonskin Gloves",
+      "head": "Divine Hood",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"369": {
+      "chest": "Plate Mail of Reflection",
+      "foot": "Greaves",
+      "hand": "Divine Gloves",
+      "head": "War Cap",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"397": {
+      "chest": "Dragonskin Armor",
+      "foot": "Holy Greaves",
+      "hand": "Linen Gloves of Skill",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"413": {
+      "chest": "Linen Robe",
+      "foot": "Leather Boots of Protection",
+      "hand": "\"Victory Shout\" Gloves of Giants +1",
+      "head": "War Cap",
+      "neck": "Amulet",
+      "ring": "Bronze Ring of Perfection",
+      "waist": "Ornate Belt of Skill",
+      "weapon": "Chronicle"
+    },
+"425": {
+      "chest": "Ornate Chestplate",
+      "foot": "Divine Slippers of Perfection",
+      "hand": "Silk Gloves",
+      "head": "Cap of Rage",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "War Belt of Titans",
+      "weapon": "Chronicle"
+    },
+"429": {
+      "chest": "Hard Leather Armor",
+      "foot": "Wool Shoes of Vitriol",
+      "hand": "Linen Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Pendant of Detection",
+      "ring": "Gold Ring of Protection",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"430": {
+      "chest": "Holy Chestplate",
+      "foot": "Chain Boots",
+      "hand": "\"Apocalypse Root\" Linen Gloves of the Twins",
+      "head": "Dragon's Crown of Protection",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"443": {
+      "chest": "Linen Robe",
+      "foot": "Divine Slippers",
+      "hand": "Hard Leather Gloves",
+      "head": "Hood of Giants",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"445": {
+      "chest": "Divine Robe of Reflection",
+      "foot": "\"Skull Shout\" Shoes of Vitriol +1",
+      "hand": "Leather Gloves",
+      "head": "Hood",
+      "neck": "Amulet of Detection",
+      "ring": "\"Skull Grasp\" Titanium Ring of Detection +1",
+      "waist": "War Belt of Protection",
+      "weapon": "Chronicle"
+    },
+"452": {
+      "chest": "Demon Husk of Protection",
+      "foot": "Heavy Boots",
+      "hand": "Gauntlets",
+      "head": "Crown",
+      "neck": "Necklace",
+      "ring": "\"Victory Bender\" Bronze Ring of Fury +1",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"466": {
+      "chest": "Ornate Chestplate",
+      "foot": "Silk Slippers of Reflection",
+      "hand": "Dragonskin Gloves of Detection",
+      "head": "Linen Hood of Fury",
+      "neck": "Amulet of Anger",
+      "ring": "Silver Ring",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"471": {
+      "chest": "Demon Husk",
+      "foot": "Holy Greaves of Enlightenment",
+      "hand": "Linen Gloves",
+      "head": "Leather Cap",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"479": {
+      "chest": "Holy Chestplate",
+      "foot": "Holy Greaves",
+      "hand": "Wool Gloves",
+      "head": "Divine Hood",
+      "neck": "\"Demon Shout\" Pendant of the Twins +1",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt of Anger",
+      "weapon": "Chronicle"
+    },
+"507": {
+      "chest": "Studded Leather Armor",
+      "foot": "\"Light's Tear\" Divine Slippers of the Twins",
+      "hand": "Demon's Hands",
+      "head": "Dragon's Crown of Detection",
+      "neck": "Pendant",
+      "ring": "Gold Ring of Perfection",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"508": {
+      "chest": "Leather Armor",
+      "foot": "Heavy Boots",
+      "hand": "\"Vortex Root\" Linen Gloves of Detection",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Fury",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"512": {
+      "chest": "Leather Armor",
+      "foot": "Divine Slippers of Reflection",
+      "hand": "Demon's Hands",
+      "head": "Great Helm of Fury",
+      "neck": "\"Cataclysm Peak\" Pendant of Enlightenment +1",
+      "ring": "Titanium Ring",
+      "waist": "Silk Sash of Giants",
+      "weapon": "Chronicle"
+    },
+"520": {
+      "chest": "Leather Armor",
+      "foot": "Chain Boots",
+      "hand": "Demon's Hands",
+      "head": "Leather Cap of Fury",
+      "neck": "Pendant",
+      "ring": "\"Kraken Shout\" Platinum Ring of Skill +1",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"568": {
+      "chest": "Chain Mail",
+      "foot": "Studded Leather Boots",
+      "hand": "Linen Gloves",
+      "head": "Great Helm",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"603": {
+      "chest": "Ornate Chestplate of Protection",
+      "foot": "Shoes",
+      "hand": "Gauntlets",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Mesh Belt of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"607": {
+      "chest": "Silk Robe",
+      "foot": "Greaves",
+      "hand": "Heavy Gloves",
+      "head": "Demon Crown",
+      "neck": "\"Soul Roar\" Amulet of Perfection",
+      "ring": "Gold Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"615": {
+      "chest": "Leather Armor",
+      "foot": "Ornate Greaves of Power",
+      "hand": "Studded Leather Gloves",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"648": {
+      "chest": "Demon Husk",
+      "foot": "Chain Boots",
+      "hand": "\"Woe Bite\" Silk Gloves of Reflection +1",
+      "head": "\"Soul Whisper\" Crown of Perfection",
+      "neck": "Amulet of Detection",
+      "ring": "\"Shimmering Shout\" Titanium Ring of Vitriol +1",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"671": {
+      "chest": "Divine Robe of Reflection",
+      "foot": "Silk Slippers of Power",
+      "hand": "Ornate Gauntlets of Brilliance",
+      "head": "Leather Cap",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"683": {
+      "chest": "Ornate Chestplate",
+      "foot": "Leather Boots",
+      "hand": "Linen Gloves",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"734": {
+      "chest": "\"Woe Grasp\" Ring Mail of Detection +1",
+      "foot": "Linen Shoes",
+      "hand": "Holy Gauntlets of Perfection",
+      "head": "Linen Hood",
+      "neck": "Necklace of Titans",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"761": {
+      "chest": "Robe",
+      "foot": "Dragonskin Boots",
+      "hand": "\"Woe Bender\" Hard Leather Gloves of Anger +1",
+      "head": "Linen Hood",
+      "neck": "\"Tempest Grasp\" Pendant of the Twins +1",
+      "ring": "Gold Ring of Giants",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"776": {
+      "chest": "Linen Robe",
+      "foot": "Holy Greaves",
+      "hand": "Dragonskin Gloves",
+      "head": "Full Helm of Detection",
+      "neck": "Pendant of Vitriol",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"780": {
+      "chest": "Silk Robe",
+      "foot": "Linen Shoes",
+      "hand": "Gloves",
+      "head": "Hood of Skill",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"822": {
+      "chest": "Studded Leather Armor",
+      "foot": "Silk Slippers",
+      "hand": "Hard Leather Gloves of Reflection",
+      "head": "Full Helm",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"874": {
+      "chest": "Divine Robe of Rage",
+      "foot": "Divine Slippers",
+      "hand": "Gloves of the Twins",
+      "head": "Great Helm",
+      "neck": "Necklace of Vitriol",
+      "ring": "Silver Ring of Titans",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"883": {
+      "chest": "Linen Robe",
+      "foot": "Dragonskin Boots",
+      "hand": "Chain Gloves",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"907": {
+      "chest": "Dragonskin Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "\"Tempest Bender\" Silk Gloves of Reflection +1",
+      "head": "Dragon's Crown of Reflection",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"935": {
+      "chest": "Silk Robe",
+      "foot": "Heavy Boots",
+      "hand": "Heavy Gloves",
+      "head": "\"Behemoth Whisper\" Linen Hood of Titans",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Demonhide Belt of Skill",
+      "weapon": "Chronicle"
+    },
+"962": {
+      "chest": "Studded Leather Armor",
+      "foot": "Chain Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "Linen Hood",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"990": {
+      "chest": "Robe of Anger",
+      "foot": "Holy Greaves",
+      "hand": "Leather Gloves",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Leather Belt of Reflection",
+      "weapon": "Chronicle"
+    },
+"1029": {
+      "chest": "Leather Armor of Skill",
+      "foot": "\"Gloom Peak\" Demonhide Boots of the Fox +1",
+      "hand": "Linen Gloves",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"1067": {
+      "chest": "Ring Mail",
+      "foot": "Linen Shoes of Skill",
+      "hand": "Demon's Hands",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"1078": {
+      "chest": "Leather Armor",
+      "foot": "Greaves",
+      "hand": "Demon's Hands of Titans",
+      "head": "Leather Cap",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"1081": {
+      "chest": "Robe of Titans",
+      "foot": "\"Vengeance Tear\" Ornate Greaves of Rage",
+      "hand": "Linen Gloves",
+      "head": "Great Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "\"Pain Whisper\" Studded Leather Belt of Power",
+      "weapon": "Chronicle of Detection"
+    },
+"1103": {
+      "chest": "Ornate Chestplate",
+      "foot": "Chain Boots",
+      "hand": "Leather Gloves",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Demonhide Belt of Protection",
+      "weapon": "Chronicle"
+    },
+"1119": {
+      "chest": "Chain Mail",
+      "foot": "Studded Leather Boots",
+      "hand": "Gauntlets",
+      "head": "Silk Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Detection",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"1133": {
+      "chest": "Ring Mail",
+      "foot": "Dragonskin Boots",
+      "hand": "Chain Gloves of Vitriol",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"1176": {
+      "chest": "\"Grim Peak\" Linen Robe of Reflection +1",
+      "foot": "Hard Leather Boots of Detection",
+      "hand": "Wool Gloves of the Twins",
+      "head": "Full Helm of the Fox",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"1189": {
+      "chest": "Plate Mail of Power",
+      "foot": "Studded Leather Boots",
+      "hand": "\"Woe Shout\" Demon's Hands of Protection +1",
+      "head": "Silk Hood",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"1205": {
+      "chest": "\"Light's Whisper\" Studded Leather Armor of Perfection",
+      "foot": "Ornate Greaves",
+      "hand": "Linen Gloves",
+      "head": "Crown",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"1230": {
+      "chest": "Chain Mail",
+      "foot": "Demonhide Boots",
+      "hand": "Chain Gloves",
+      "head": "Hood",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"1258": {
+      "chest": "Linen Robe",
+      "foot": "Chain Boots",
+      "hand": "Silk Gloves",
+      "head": "Silk Hood of Protection",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Demonhide Belt of Giants",
+      "weapon": "Chronicle"
+    },
+"1260": {
+      "chest": "Robe",
+      "foot": "Greaves",
+      "hand": "Divine Gloves of Perfection",
+      "head": "Great Helm of Reflection",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"1265": {
+      "chest": "Ring Mail",
+      "foot": "Holy Greaves",
+      "hand": "Leather Gloves",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"1267": {
+      "chest": "Plate Mail",
+      "foot": "Demonhide Boots",
+      "hand": "Demon's Hands",
+      "head": "War Cap",
+      "neck": "Pendant",
+      "ring": "Gold Ring of Skill",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"1280": {
+      "chest": "Hard Leather Armor",
+      "foot": "Dragonskin Boots of Anger",
+      "hand": "Studded Leather Gloves",
+      "head": "Hood of Rage",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"1293": {
+      "chest": "Dragonskin Armor",
+      "foot": "Heavy Boots of Rage",
+      "hand": "Ornate Gauntlets",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle of Brilliance"
+    },
+"1295": {
+      "chest": "Chain Mail",
+      "foot": "Greaves",
+      "hand": "Leather Gloves of Anger",
+      "head": "\"Dusk Roar\" Helm of the Fox",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt of Rage",
+      "weapon": "Chronicle"
+    },
+"1322": {
+      "chest": "Demon Husk",
+      "foot": "Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Hood",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt of Fury",
+      "weapon": "Chronicle"
+    },
+"1332": {
+      "chest": "Ornate Chestplate",
+      "foot": "\"Sorrow Shout\" Shoes of Skill +1",
+      "hand": "Demon's Hands",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "\"Woe Shout\" Demonhide Belt of the Twins +1",
+      "weapon": "Chronicle"
+    },
+"1422": {
+      "chest": "Hard Leather Armor of the Twins",
+      "foot": "Silk Slippers",
+      "hand": "Heavy Gloves",
+      "head": "Ornate Helm of Titans",
+      "neck": "Pendant",
+      "ring": "Platinum Ring of Vitriol",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"1426": {
+      "chest": "Plate Mail",
+      "foot": "Greaves",
+      "hand": "Dragonskin Gloves",
+      "head": "Silk Hood of Vitriol",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Brightsilk Sash of Protection",
+      "weapon": "Chronicle"
+    },
+"1445": {
+      "chest": "Leather Armor",
+      "foot": "Silk Slippers of the Twins",
+      "hand": "Holy Gauntlets",
+      "head": "Dragon's Crown of Enlightenment",
+      "neck": "Necklace",
+      "ring": "\"Brimstone Moon\" Silver Ring of Detection +1",
+      "waist": "Silk Sash of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"1461": {
+      "chest": "Linen Robe",
+      "foot": "Hard Leather Boots",
+      "hand": "\"Demon Bender\" Gloves of Enlightenment +1",
+      "head": "Linen Hood",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"1508": {
+      "chest": "\"Bramble Tear\" Silk Robe of Rage",
+      "foot": "Heavy Boots",
+      "hand": "Holy Gauntlets",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"1512": {
+      "chest": "Holy Chestplate",
+      "foot": "Dragonskin Boots",
+      "hand": "Silk Gloves",
+      "head": "Leather Cap",
+      "neck": "Necklace",
+      "ring": "Gold Ring of Power",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle of Giants"
+    },
+"1524": {
+      "chest": "Studded Leather Armor",
+      "foot": "\"Sorrow Bender\" Shoes of the Fox +1",
+      "hand": "Silk Gloves",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Studded Leather Belt of Rage",
+      "weapon": "Chronicle of Detection"
+    },
+"1534": {
+      "chest": "Divine Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt of Giants",
+      "weapon": "Chronicle"
+    },
+"1570": {
+      "chest": "\"Havoc Roar\" Chain Mail of Perfection",
+      "foot": "Linen Shoes",
+      "hand": "Divine Gloves",
+      "head": "Ornate Helm",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle of Detection"
+    },
+"1574": {
+      "chest": "Leather Armor",
+      "foot": "\"Eagle Bite\" Demonhide Boots of Fury +1",
+      "hand": "Demon's Hands",
+      "head": "Full Helm of Fury",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Power",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"1576": {
+      "chest": "Silk Robe of Titans",
+      "foot": "Chain Boots",
+      "hand": "Holy Gauntlets",
+      "head": "Dragon's Crown",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"1578": {
+      "chest": "\"Carrion Root\" Chain Mail of Skill",
+      "foot": "Wool Shoes of Giants",
+      "hand": "Dragonskin Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"1634": {
+      "chest": "Plate Mail",
+      "foot": "Hard Leather Boots",
+      "hand": "Holy Gauntlets of the Fox",
+      "head": "Leather Cap",
+      "neck": "Amulet of Power",
+      "ring": "Titanium Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"1638": {
+      "chest": "Silk Robe",
+      "foot": "Heavy Boots",
+      "hand": "Leather Gloves of Brilliance",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"1640": {
+      "chest": "Holy Chestplate",
+      "foot": "Chain Boots",
+      "hand": "Gauntlets",
+      "head": "Great Helm of Vitriol",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"1645": {
+      "chest": "Demon Husk",
+      "foot": "Silk Slippers",
+      "hand": "Wool Gloves",
+      "head": "Linen Hood of Reflection",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"1655": {
+      "chest": "Plate Mail",
+      "foot": "\"Victory Shout\" Greaves of Rage +1",
+      "hand": "\"Rage Moon\" Gauntlets of Giants +1",
+      "head": "Demon Crown",
+      "neck": "Necklace",
+      "ring": "Titanium Ring of Vitriol",
+      "waist": "Leather Belt of Brilliance",
+      "weapon": "Chronicle"
+    },
+"1681": {
+      "chest": "\"Hypnotic Glow\" Holy Chestplate of Skill",
+      "foot": "Holy Greaves",
+      "hand": "Silk Gloves",
+      "head": "\"Pandemonium Grasp\" Demon Crown of Rage +1",
+      "neck": "Pendant of Perfection",
+      "ring": "Titanium Ring",
+      "waist": "Hard Leather Belt of Detection",
+      "weapon": "Chronicle of Vitriol"
+    },
+"1695": {
+      "chest": "Chain Mail",
+      "foot": "Divine Slippers",
+      "hand": "Ornate Gauntlets",
+      "head": "War Cap",
+      "neck": "\"Oblivion Bite\" Pendant of Power +1",
+      "ring": "Gold Ring of Giants",
+      "waist": "Leather Belt of Anger",
+      "weapon": "Chronicle"
+    },
+"1744": {
+      "chest": "Hard Leather Armor",
+      "foot": "Heavy Boots",
+      "hand": "Linen Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Pendant of Power",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"1764": {
+      "chest": "Ring Mail",
+      "foot": "\"Corruption Bite\" Silk Slippers of Reflection +1",
+      "hand": "Chain Gloves of Enlightenment",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "\"Corruption Shout\" Silver Ring of Vitriol +1",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"1769": {
+      "chest": "Robe",
+      "foot": "Hard Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "\"Rune Glow\" Ornate Helm of Vitriol",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"1773": {
+      "chest": "\"Honour Grasp\" Demon Husk of Giants +1",
+      "foot": "Silk Slippers",
+      "hand": "Demon's Hands",
+      "head": "Demon Crown of Rage",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"1776": {
+      "chest": "Robe of Titans",
+      "foot": "Dragonskin Boots",
+      "hand": "Holy Gauntlets",
+      "head": "Divine Hood of Brilliance",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Wool Sash of Rage",
+      "weapon": "Chronicle"
+    },
+"1797": {
+      "chest": "Holy Chestplate",
+      "foot": "Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Silk Hood of Titans",
+      "neck": "Amulet of the Twins",
+      "ring": "\"Mind Shout\" Gold Ring of Protection +1",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"1801": {
+      "chest": "Linen Robe",
+      "foot": "Linen Shoes",
+      "hand": "Silk Gloves",
+      "head": "\"Death Glow\" Helm of Vitriol",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"1808": {
+      "chest": "\"Woe Peak\" Linen Robe of Fury +1",
+      "foot": "\"Light's Root\" Linen Shoes of the Twins",
+      "hand": "Dragonskin Gloves",
+      "head": "\"Woe Peak\" Hood of Power +1",
+      "neck": "Pendant of Power",
+      "ring": "\"Hypnotic Sun\" Platinum Ring of Titans",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle of the Twins"
+    },
+"1810": {
+      "chest": "Studded Leather Armor",
+      "foot": "Dragonskin Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "Demon Crown",
+      "neck": "Necklace of Titans",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"1811": {
+      "chest": "Linen Robe",
+      "foot": "Linen Shoes",
+      "hand": "Wool Gloves",
+      "head": "Divine Hood",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"1832": {
+      "chest": "Robe",
+      "foot": "Wool Shoes",
+      "hand": "Demon's Hands",
+      "head": "Divine Hood",
+      "neck": "Necklace of Reflection",
+      "ring": "Bronze Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"1834": {
+      "chest": "Ring Mail",
+      "foot": "Dragonskin Boots",
+      "hand": "Chain Gloves",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"1884": {
+      "chest": "Silk Robe of Anger",
+      "foot": "Ornate Greaves",
+      "hand": "Holy Gauntlets of Detection",
+      "head": "Full Helm of the Twins",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle of Protection"
+    },
+"1902": {
+      "chest": "Studded Leather Armor",
+      "foot": "Hard Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Divine Hood",
+      "neck": "Pendant of Rage",
+      "ring": "Gold Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"1984": {
+      "chest": "Leather Armor of the Fox",
+      "foot": "Holy Greaves",
+      "hand": "Heavy Gloves",
+      "head": "Great Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"2077": {
+      "chest": "Divine Robe of Vitriol",
+      "foot": "Heavy Boots of Vitriol",
+      "hand": "Leather Gloves of Power",
+      "head": "Helm",
+      "neck": "Necklace of Perfection",
+      "ring": "Gold Ring",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"2084": {
+      "chest": "Studded Leather Armor of Detection",
+      "foot": "Demonhide Boots",
+      "hand": "Studded Leather Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Necklace",
+      "ring": "Titanium Ring of Titans",
+      "waist": "\"Gloom Shout\" Sash of Protection +1",
+      "weapon": "Chronicle"
+    },
+"2113": {
+      "chest": "\"Eagle Moon\" Ring Mail of Protection +1",
+      "foot": "Dragonskin Boots",
+      "hand": "Silk Gloves",
+      "head": "Helm of Vitriol",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Leather Belt of Perfection",
+      "weapon": "Chronicle of Giants"
+    },
+"2124": {
+      "chest": "Chain Mail",
+      "foot": "Demonhide Boots",
+      "hand": "Leather Gloves",
+      "head": "Full Helm",
+      "neck": "Necklace",
+      "ring": "Gold Ring of the Fox",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2132": {
+      "chest": "Ornate Chestplate",
+      "foot": "Ornate Greaves",
+      "hand": "Linen Gloves",
+      "head": "Cap of Titans",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Giants",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"2163": {
+      "chest": "Linen Robe",
+      "foot": "Linen Shoes",
+      "hand": "Chain Gloves",
+      "head": "Dragon's Crown",
+      "neck": "\"Soul Sun\" Amulet of Titans",
+      "ring": "Silver Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"2168": {
+      "chest": "Ornate Chestplate of Detection",
+      "foot": "Wool Shoes",
+      "hand": "Linen Gloves of Giants",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"2170": {
+      "chest": "Holy Chestplate",
+      "foot": "Heavy Boots",
+      "hand": "Studded Leather Gloves",
+      "head": "Divine Hood",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"2221": {
+      "chest": "Chain Mail",
+      "foot": "Chain Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"2228": {
+      "chest": "Ring Mail",
+      "foot": "Greaves",
+      "hand": "Heavy Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Pendant",
+      "ring": "Gold Ring of Enlightenment",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"2231": {
+      "chest": "\"Bramble Tear\" Holy Chestplate of Skill",
+      "foot": "Divine Slippers",
+      "hand": "Silk Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2267": {
+      "chest": "Hard Leather Armor",
+      "foot": "Linen Shoes",
+      "hand": "Silk Gloves",
+      "head": "Hood of Skill",
+      "neck": "\"Corruption Peak\" Pendant of Titans +1",
+      "ring": "Gold Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"2277": {
+      "chest": "Leather Armor",
+      "foot": "Divine Slippers",
+      "hand": "Heavy Gloves",
+      "head": "Great Helm",
+      "neck": "Amulet of Power",
+      "ring": "Bronze Ring",
+      "waist": "Studded Leather Belt of Titans",
+      "weapon": "Chronicle"
+    },
+"2329": {
+      "chest": "Demon Husk",
+      "foot": "Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Divine Hood",
+      "neck": "Necklace of Giants",
+      "ring": "Titanium Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2330": {
+      "chest": "Plate Mail",
+      "foot": "Holy Greaves",
+      "hand": "Silk Gloves",
+      "head": "Demon Crown",
+      "neck": "Pendant of Fury",
+      "ring": "Gold Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"2366": {
+      "chest": "Hard Leather Armor",
+      "foot": "Silk Slippers",
+      "hand": "Chain Gloves of Detection",
+      "head": "War Cap of Giants",
+      "neck": "\"Brimstone Shout\" Pendant of Brilliance +1",
+      "ring": "Platinum Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"2393": {
+      "chest": "Linen Robe",
+      "foot": "Linen Shoes",
+      "hand": "Dragonskin Gloves of the Twins",
+      "head": "Leather Cap",
+      "neck": "Amulet",
+      "ring": "Bronze Ring of Enlightenment",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"2413": {
+      "chest": "Dragonskin Armor of Protection",
+      "foot": "Chain Boots of Perfection",
+      "hand": "Gloves",
+      "head": "Demon Crown of Rage",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Wool Sash of Brilliance",
+      "weapon": "Chronicle"
+    },
+"2424": {
+      "chest": "\"Kraken Peak\" Demon Husk of Anger +1",
+      "foot": "Heavy Boots of Protection",
+      "hand": "Dragonskin Gloves",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Enlightenment",
+      "waist": "\"Fate Root\" War Belt of the Twins",
+      "weapon": "Chronicle"
+    },
+"2462": {
+      "chest": "\"Ghoul Sun\" Holy Chestplate of Power",
+      "foot": "Studded Leather Boots",
+      "hand": "Wool Gloves of Rage",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Studded Leather Belt of Rage",
+      "weapon": "Chronicle"
+    },
+"2515": {
+      "chest": "Chain Mail",
+      "foot": "Silk Slippers",
+      "hand": "Gloves",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"2519": {
+      "chest": "Demon Husk",
+      "foot": "Linen Shoes",
+      "hand": "Hard Leather Gloves",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "Silver Ring of the Fox",
+      "waist": "\"Victory Shout\" Demonhide Belt of Skill +1",
+      "weapon": "Chronicle"
+    },
+"2529": {
+      "chest": "Plate Mail of Protection",
+      "foot": "Holy Greaves of Enlightenment",
+      "hand": "Dragonskin Gloves",
+      "head": "Divine Hood",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash of Rage",
+      "weapon": "Chronicle"
+    },
+"2530": {
+      "chest": "Shirt",
+      "foot": "Divine Slippers of Anger",
+      "hand": "Studded Leather Gloves",
+      "head": "Linen Hood",
+      "neck": "\"Mind Peak\" Pendant of Fury +1",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"2537": {
+      "chest": "Plate Mail",
+      "foot": "Greaves",
+      "hand": "Demon's Hands",
+      "head": "Great Helm",
+      "neck": "Necklace of Skill",
+      "ring": "Bronze Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"2547": {
+      "chest": "Divine Robe of Rage",
+      "foot": "Dragonskin Boots of Detection",
+      "hand": "Linen Gloves",
+      "head": "\"Foe Bite\" Leather Cap of Fury +1",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"2553": {
+      "chest": "\"Rage Peak\" Demon Husk of Perfection +1",
+      "foot": "Dragonskin Boots",
+      "hand": "Leather Gloves of Titans",
+      "head": "Hood of Enlightenment",
+      "neck": "Pendant of Fury",
+      "ring": "Gold Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"2574": {
+      "chest": "Dragonskin Armor",
+      "foot": "Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Silk Hood",
+      "neck": "Amulet",
+      "ring": "Gold Ring of Power",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2575": {
+      "chest": "Holy Chestplate",
+      "foot": "\"Behemoth Roar\" Linen Shoes of Anger",
+      "hand": "Studded Leather Gloves of the Twins",
+      "head": "Full Helm of Skill",
+      "neck": "Necklace",
+      "ring": "Silver Ring of Anger",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"2589": {
+      "chest": "Leather Armor",
+      "foot": "Holy Greaves",
+      "hand": "Wool Gloves",
+      "head": "Dragon's Crown of Rage",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt of Vitriol",
+      "weapon": "Chronicle"
+    },
+"2605": {
+      "chest": "Shirt",
+      "foot": "Heavy Boots",
+      "hand": "Studded Leather Gloves of Detection",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"2606": {
+      "chest": "Robe of Power",
+      "foot": "Leather Boots",
+      "hand": "Gloves",
+      "head": "Silk Hood of Giants",
+      "neck": "\"Woe Bite\" Pendant of Fury +1",
+      "ring": "Platinum Ring",
+      "waist": "\"Cataclysm Bite\" Demonhide Belt of Anger +1",
+      "weapon": "Chronicle"
+    },
+"2618": {
+      "chest": "Ornate Chestplate",
+      "foot": "Dragonskin Boots of Fury",
+      "hand": "Gauntlets",
+      "head": "Full Helm of Reflection",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Hard Leather Belt of Detection",
+      "weapon": "Chronicle"
+    },
+"2652": {
+      "chest": "Plate Mail of Reflection",
+      "foot": "Chain Boots of Vitriol",
+      "hand": "Gauntlets",
+      "head": "Linen Hood of Perfection",
+      "neck": "Necklace of the Twins",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"2656": {
+      "chest": "Linen Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Divine Gloves",
+      "head": "Demon Crown",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Leather Belt of Protection",
+      "weapon": "Chronicle"
+    },
+"2664": {
+      "chest": "Divine Robe of Detection",
+      "foot": "Linen Shoes of the Twins",
+      "hand": "Dragonskin Gloves",
+      "head": "\"Mind Bender\" Great Helm of Titans +1",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2667": {
+      "chest": "Plate Mail",
+      "foot": "Divine Slippers",
+      "hand": "Demon's Hands",
+      "head": "Ancient Helm",
+      "neck": "Pendant",
+      "ring": "Gold Ring of Detection",
+      "waist": "Sash",
+      "weapon": "Chronicle of Skill"
+    },
+"2674": {
+      "chest": "Studded Leather Armor",
+      "foot": "Hard Leather Boots of Anger",
+      "hand": "Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Pendant",
+      "ring": "Gold Ring of Fury",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2688": {
+      "chest": "Plate Mail of Vitriol",
+      "foot": "Shoes",
+      "hand": "\"Cataclysm Shout\" Demon's Hands of Protection +1",
+      "head": "War Cap",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2721": {
+      "chest": "Hard Leather Armor",
+      "foot": "Dragonskin Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "Dragon's Crown",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"2757": {
+      "chest": "Leather Armor",
+      "foot": "Demonhide Boots",
+      "hand": "Linen Gloves",
+      "head": "Divine Hood of the Fox",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Mesh Belt of Giants",
+      "weapon": "Chronicle of Rage"
+    },
+"2783": {
+      "chest": "Leather Armor of Power",
+      "foot": "Leather Boots",
+      "hand": "Divine Gloves",
+      "head": "\"Maelstrom Tear\" Linen Hood of Giants",
+      "neck": "Necklace",
+      "ring": "Bronze Ring of Protection",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"2792": {
+      "chest": "Dragonskin Armor",
+      "foot": "Divine Slippers",
+      "hand": "Chain Gloves of Power",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"2817": {
+      "chest": "Leather Armor",
+      "foot": "Chain Boots",
+      "hand": "Gauntlets",
+      "head": "Ancient Helm",
+      "neck": "Pendant of Detection",
+      "ring": "Titanium Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"2840": {
+      "chest": "Holy Chestplate",
+      "foot": "Greaves",
+      "hand": "Heavy Gloves",
+      "head": "Ancient Helm of Rage",
+      "neck": "Pendant",
+      "ring": "\"Bramble Root\" Silver Ring of Detection",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"2875": {
+      "chest": "Studded Leather Armor",
+      "foot": "Divine Slippers",
+      "hand": "Dragonskin Gloves",
+      "head": "Linen Hood",
+      "neck": "Necklace of Giants",
+      "ring": "Bronze Ring",
+      "waist": "\"Dragon Glow\" Brightsilk Sash of Skill",
+      "weapon": "Chronicle"
+    },
+"2881": {
+      "chest": "Ornate Chestplate",
+      "foot": "Linen Shoes",
+      "hand": "Linen Gloves",
+      "head": "Great Helm",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Mesh Belt of Skill",
+      "weapon": "Chronicle"
+    },
+"2929": {
+      "chest": "Divine Robe of Brilliance",
+      "foot": "Hard Leather Boots",
+      "hand": "Wool Gloves",
+      "head": "Divine Hood of the Fox",
+      "neck": "\"Honour Grasp\" Pendant of the Twins +1",
+      "ring": "Platinum Ring of Brilliance",
+      "waist": "Dragonskin Belt of Protection",
+      "weapon": "Chronicle"
+    },
+"2966": {
+      "chest": "\"Cataclysm Bite\" Demon Husk of Titans +1",
+      "foot": "Linen Shoes",
+      "hand": "\"Dragon Glow\" Divine Gloves of Vitriol",
+      "head": "Ancient Helm",
+      "neck": "Pendant",
+      "ring": "\"Blight Moon\" Titanium Ring of the Twins +1",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"2967": {
+      "chest": "Plate Mail",
+      "foot": "\"Sorrow Moon\" Demonhide Boots of Giants +1",
+      "hand": "Chain Gloves",
+      "head": "Demon Crown",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Brightsilk Sash of Anger",
+      "weapon": "Chronicle"
+    },
+"3028": {
+      "chest": "\"Corruption Bite\" Ring Mail of Fury +1",
+      "foot": "Wool Shoes of Protection",
+      "hand": "Holy Gauntlets of Detection",
+      "head": "Linen Hood of Perfection",
+      "neck": "\"Apocalypse Glow\" Amulet of the Twins",
+      "ring": "Platinum Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"3055": {
+      "chest": "Studded Leather Armor",
+      "foot": "Shoes",
+      "hand": "Silk Gloves",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"3066": {
+      "chest": "Studded Leather Armor",
+      "foot": "\"Vengeance Whisper\" Ornate Greaves of Titans",
+      "hand": "Demon's Hands",
+      "head": "War Cap of Detection",
+      "neck": "Amulet",
+      "ring": "\"Dusk Tear\" Titanium Ring of Brilliance",
+      "waist": "\"Vortex Tear\" Studded Leather Belt of Skill",
+      "weapon": "Chronicle"
+    },
+"3082": {
+      "chest": "Silk Robe",
+      "foot": "Demonhide Boots",
+      "hand": "Gloves of Vitriol",
+      "head": "War Cap of Enlightenment",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"3086": {
+      "chest": "Hard Leather Armor of Brilliance",
+      "foot": "Wool Shoes",
+      "hand": "Silk Gloves of Titans",
+      "head": "Linen Hood of Giants",
+      "neck": "Pendant of Vitriol",
+      "ring": "Titanium Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"3093": {
+      "chest": "Shirt",
+      "foot": "Ornate Greaves",
+      "hand": "Linen Gloves",
+      "head": "Dragon's Crown of Perfection",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"3096": {
+      "chest": "Shirt",
+      "foot": "Divine Slippers",
+      "hand": "Dragonskin Gloves of Vitriol",
+      "head": "Demon Crown",
+      "neck": "Amulet",
+      "ring": "Platinum Ring of Protection",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"3104": {
+      "chest": "Dragonskin Armor",
+      "foot": "Leather Boots",
+      "hand": "Silk Gloves",
+      "head": "\"Gloom Peak\" Divine Hood of Titans +1",
+      "neck": "Necklace of the Fox",
+      "ring": "Bronze Ring of Enlightenment",
+      "waist": "Dragonskin Belt of Giants",
+      "weapon": "Chronicle of the Twins"
+    },
+"3117": {
+      "chest": "Plate Mail of the Twins",
+      "foot": "Shoes",
+      "hand": "Heavy Gloves",
+      "head": "Hood",
+      "neck": "Amulet of Reflection",
+      "ring": "Bronze Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle of Giants"
+    },
+"3133": {
+      "chest": "Demon Husk",
+      "foot": "Studded Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Silk Hood",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Ornate Belt of Brilliance",
+      "weapon": "Chronicle"
+    },
+"3156": {
+      "chest": "\"Blight Peak\" Hard Leather Armor of Perfection +1",
+      "foot": "Shoes",
+      "hand": "Divine Gloves",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"3157": {
+      "chest": "Plate Mail",
+      "foot": "Silk Slippers of Perfection",
+      "hand": "Divine Gloves",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Demonhide Belt of Detection",
+      "weapon": "Chronicle of Giants"
+    },
+"3177": {
+      "chest": "Silk Robe",
+      "foot": "Ornate Greaves",
+      "hand": "Gloves",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"3185": {
+      "chest": "Chain Mail",
+      "foot": "Silk Slippers of Anger",
+      "hand": "Hard Leather Gloves",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "\"Pandemonium Bite\" Gold Ring of Reflection +1",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"3187": {
+      "chest": "Studded Leather Armor",
+      "foot": "Dragonskin Boots",
+      "hand": "Demon's Hands",
+      "head": "Demon Crown",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"3222": {
+      "chest": "Dragonskin Armor",
+      "foot": "Shoes",
+      "hand": "Ornate Gauntlets",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle of Vitriol"
+    },
+"3239": {
+      "chest": "Divine Robe",
+      "foot": "Wool Shoes",
+      "hand": "\"Corruption Bender\" Silk Gloves of Enlightenment +1",
+      "head": "War Cap of Anger",
+      "neck": "Amulet",
+      "ring": "Gold Ring of Anger",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"3245": {
+      "chest": "\"Foe Moon\" Linen Robe of Brilliance +1",
+      "foot": "Studded Leather Boots",
+      "hand": "Linen Gloves",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Skill",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"3254": {
+      "chest": "Chain Mail",
+      "foot": "\"Death Whisper\" Divine Slippers of Anger",
+      "hand": "Divine Gloves",
+      "head": "Great Helm",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Plated Belt of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"3265": {
+      "chest": "Leather Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Demon's Hands",
+      "head": "Hood",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"3326": {
+      "chest": "Studded Leather Armor",
+      "foot": "Heavy Boots of the Twins",
+      "hand": "Holy Gauntlets of the Fox",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"3335": {
+      "chest": "Leather Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Silk Hood",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"3340": {
+      "chest": "Leather Armor of the Twins",
+      "foot": "Silk Slippers",
+      "hand": "Chain Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"3353": {
+      "chest": "Plate Mail",
+      "foot": "Holy Greaves",
+      "hand": "Gloves",
+      "head": "Silk Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of the Twins",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"3384": {
+      "chest": "Plate Mail",
+      "foot": "Wool Shoes of the Twins",
+      "hand": "\"Dread Bender\" Gauntlets of Titans +1",
+      "head": "Ancient Helm",
+      "neck": "Necklace of Rage",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"3430": {
+      "chest": "\"Plague Roar\" Chain Mail of Titans",
+      "foot": "Divine Slippers",
+      "hand": "Heavy Gloves",
+      "head": "Linen Hood",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"3443": {
+      "chest": "Robe",
+      "foot": "\"Eagle Moon\" Silk Slippers of Giants +1",
+      "hand": "Chain Gloves",
+      "head": "Divine Hood",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"3513": {
+      "chest": "Studded Leather Armor",
+      "foot": "Wool Shoes",
+      "hand": "Linen Gloves",
+      "head": "Linen Hood of Anger",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"3521": {
+      "chest": "Divine Robe",
+      "foot": "Greaves of Fury",
+      "hand": "Holy Gauntlets",
+      "head": "Divine Hood of Titans",
+      "neck": "\"Ghoul Tear\" Amulet of Rage",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"3527": {
+      "chest": "Leather Armor",
+      "foot": "Divine Slippers of Perfection",
+      "hand": "Divine Gloves",
+      "head": "\"Death Glow\" Linen Hood of Skill",
+      "neck": "Necklace",
+      "ring": "Platinum Ring of Power",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"3547": {
+      "chest": "Shirt",
+      "foot": "Studded Leather Boots",
+      "hand": "Divine Gloves of Rage",
+      "head": "Crown",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Silk Sash of Titans",
+      "weapon": "Chronicle"
+    },
+"3575": {
+      "chest": "Hard Leather Armor",
+      "foot": "Wool Shoes",
+      "hand": "Wool Gloves",
+      "head": "Cap",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"3635": {
+      "chest": "\"Shimmering Bender\" Demon Husk of Fury +1",
+      "foot": "\"Eagle Peak\" Silk Slippers of Titans +1",
+      "hand": "Studded Leather Gloves of Giants",
+      "head": "Silk Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"3652": {
+      "chest": "\"Dread Grasp\" Hard Leather Armor of Brilliance +1",
+      "foot": "\"Behemoth Glow\" Divine Slippers of Vitriol",
+      "hand": "\"Skull Moon\" Demon's Hands of Protection +1",
+      "head": "War Cap",
+      "neck": "\"Shimmering Bite\" Pendant of Perfection +1",
+      "ring": "Gold Ring of Skill",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"3669": {
+      "chest": "Ornate Chestplate",
+      "foot": "Silk Slippers",
+      "hand": "Dragonskin Gloves",
+      "head": "Ornate Helm",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"3670": {
+      "chest": "Shirt",
+      "foot": "Shoes of the Twins",
+      "hand": "Studded Leather Gloves",
+      "head": "War Cap of Anger",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"3676": {
+      "chest": "Leather Armor",
+      "foot": "Linen Shoes",
+      "hand": "Leather Gloves",
+      "head": "Linen Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"3685": {
+      "chest": "Linen Robe",
+      "foot": "Holy Greaves",
+      "hand": "\"Honour Bender\" Silk Gloves of Titans +1",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "Gold Ring of Fury",
+      "waist": "Linen Sash of Detection",
+      "weapon": "Chronicle of Rage"
+    },
+"3694": {
+      "chest": "Hard Leather Armor",
+      "foot": "Holy Greaves",
+      "hand": "Demon's Hands",
+      "head": "Ancient Helm of Giants",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"3709": {
+      "chest": "Chain Mail",
+      "foot": "Holy Greaves",
+      "hand": "Leather Gloves of Rage",
+      "head": "War Cap",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Brightsilk Sash of Protection",
+      "weapon": "Chronicle"
+    },
+"3716": {
+      "chest": "Ring Mail",
+      "foot": "Wool Shoes",
+      "hand": "Ornate Gauntlets",
+      "head": "Hood",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Wool Sash of the Twins",
+      "weapon": "Chronicle of Rage"
+    },
+"3750": {
+      "chest": "Linen Robe",
+      "foot": "Hard Leather Boots",
+      "hand": "Silk Gloves",
+      "head": "Divine Hood",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt of Protection",
+      "weapon": "Chronicle"
+    },
+"3760": {
+      "chest": "Chain Mail",
+      "foot": "Wool Shoes",
+      "hand": "Dragonskin Gloves",
+      "head": "Divine Hood",
+      "neck": "Amulet of the Fox",
+      "ring": "\"Oblivion Bite\" Silver Ring of Reflection +1",
+      "waist": "Wool Sash of Skill",
+      "weapon": "Chronicle of Giants"
+    },
+"3782": {
+      "chest": "\"Hypnotic Whisper\" Chain Mail of Reflection",
+      "foot": "Studded Leather Boots",
+      "hand": "Studded Leather Gloves",
+      "head": "Divine Hood",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"3789": {
+      "chest": "\"Fate Sun\" Chain Mail of Power",
+      "foot": "Hard Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"3795": {
+      "chest": "Leather Armor of Rage",
+      "foot": "Shoes of Titans",
+      "hand": "Gloves",
+      "head": "Helm",
+      "neck": "\"Vengeance Root\" Amulet of Brilliance",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"3807": {
+      "chest": "Studded Leather Armor",
+      "foot": "Demonhide Boots",
+      "hand": "Chain Gloves",
+      "head": "Divine Hood",
+      "neck": "Amulet of Rage",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"3823": {
+      "chest": "Holy Chestplate",
+      "foot": "Heavy Boots of Power",
+      "hand": "Chain Gloves of Anger",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "\"Demon Grasp\" Sash of Protection +1",
+      "weapon": "Chronicle"
+    },
+"3869": {
+      "chest": "Plate Mail of Fury",
+      "foot": "Shoes",
+      "hand": "Holy Gauntlets",
+      "head": "Ancient Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"3917": {
+      "chest": "Plate Mail",
+      "foot": "Heavy Boots",
+      "hand": "Linen Gloves of Skill",
+      "head": "Helm",
+      "neck": "Necklace of Perfection",
+      "ring": "Titanium Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"3952": {
+      "chest": "Chain Mail of Reflection",
+      "foot": "Wool Shoes of Titans",
+      "hand": "Silk Gloves",
+      "head": "Ornate Helm",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"3975": {
+      "chest": "\"Shimmering Shout\" Demon Husk of Detection +1",
+      "foot": "Heavy Boots",
+      "hand": "Divine Gloves",
+      "head": "\"Mind Shout\" Hood of Vitriol +1",
+      "neck": "Pendant",
+      "ring": "\"Mind Moon\" Platinum Ring of the Twins +1",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"4015": {
+      "chest": "\"Behemoth Whisper\" Shirt of Fury",
+      "foot": "Divine Slippers of the Fox",
+      "hand": "Chain Gloves",
+      "head": "\"Corruption Peak\" Hood of Anger +1",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"4052": {
+      "chest": "Studded Leather Armor",
+      "foot": "\"Kraken Shout\" Silk Slippers of Giants +1",
+      "hand": "Gauntlets",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"4054": {
+      "chest": "Demon Husk",
+      "foot": "Studded Leather Boots",
+      "hand": "Silk Gloves of the Fox",
+      "head": "Divine Hood",
+      "neck": "Necklace of Protection",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt of Brilliance",
+      "weapon": "Chronicle"
+    },
+"4085": {
+      "chest": "Ornate Chestplate of Reflection",
+      "foot": "Leather Boots",
+      "hand": "\"Hypnotic Tear\" Divine Gloves of Detection",
+      "head": "Helm",
+      "neck": "Necklace",
+      "ring": "Silver Ring of the Twins",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"4099": {
+      "chest": "Robe",
+      "foot": "Heavy Boots",
+      "hand": "Holy Gauntlets",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt of the Twins",
+      "weapon": "Chronicle"
+    },
+"4101": {
+      "chest": "Holy Chestplate",
+      "foot": "Divine Slippers",
+      "hand": "Holy Gauntlets",
+      "head": "\"Death Tear\" Ornate Helm of Protection",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash of Anger",
+      "weapon": "Chronicle"
+    },
+"4131": {
+      "chest": "Dragonskin Armor",
+      "foot": "Hard Leather Boots",
+      "hand": "Gloves",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"4148": {
+      "chest": "Ring Mail",
+      "foot": "Heavy Boots",
+      "hand": "Divine Gloves",
+      "head": "Great Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "War Belt of Giants",
+      "weapon": "Chronicle"
+    },
+"4188": {
+      "chest": "\"Havoc Whisper\" Holy Chestplate of Anger",
+      "foot": "Divine Slippers",
+      "hand": "\"Vortex Roar\" Heavy Gloves of the Fox",
+      "head": "Demon Crown",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Linen Sash of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"4202": {
+      "chest": "Holy Chestplate",
+      "foot": "Leather Boots",
+      "hand": "Silk Gloves",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Gold Ring of Perfection",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"4203": {
+      "chest": "Divine Robe",
+      "foot": "Linen Shoes",
+      "hand": "Linen Gloves",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle of Detection"
+    },
+"4207": {
+      "chest": "Plate Mail of Enlightenment",
+      "foot": "Demonhide Boots",
+      "hand": "Wool Gloves",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "\"Rune Tear\" Silver Ring of the Twins",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"4223": {
+      "chest": "Plate Mail",
+      "foot": "Demonhide Boots",
+      "hand": "Silk Gloves",
+      "head": "War Cap",
+      "neck": "Necklace of Rage",
+      "ring": "\"Victory Peak\" Silver Ring of Anger +1",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"4248": {
+      "chest": "Plate Mail",
+      "foot": "Shoes",
+      "hand": "Divine Gloves",
+      "head": "Helm",
+      "neck": "Amulet of Titans",
+      "ring": "Gold Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"4278": {
+      "chest": "Plate Mail",
+      "foot": "Heavy Boots",
+      "hand": "Chain Gloves",
+      "head": "Divine Hood",
+      "neck": "Necklace",
+      "ring": "Gold Ring of Protection",
+      "waist": "\"Oblivion Moon\" Sash of Skill +1",
+      "weapon": "Chronicle"
+    },
+"4290": {
+      "chest": "Chain Mail",
+      "foot": "Demonhide Boots of Vitriol",
+      "hand": "Leather Gloves",
+      "head": "\"Dusk Whisper\" War Cap of Anger",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"4297": {
+      "chest": "Plate Mail",
+      "foot": "Chain Boots",
+      "hand": "Heavy Gloves of Anger",
+      "head": "Cap of Giants",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "\"Victory Bender\" Hard Leather Belt of Power +1",
+      "weapon": "Chronicle"
+    },
+"4328": {
+      "chest": "Ring Mail",
+      "foot": "Silk Slippers",
+      "hand": "Divine Gloves",
+      "head": "Dragon's Crown of Detection",
+      "neck": "Pendant",
+      "ring": "\"Dragon Roar\" Gold Ring of the Fox",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"4344": {
+      "chest": "Leather Armor",
+      "foot": "Chain Boots of Perfection",
+      "hand": "Wool Gloves of the Twins",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"4401": {
+      "chest": "\"Gloom Bite\" Ring Mail of Titans +1",
+      "foot": "Chain Boots of Skill",
+      "hand": "Wool Gloves",
+      "head": "Linen Hood",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Wool Sash of Detection",
+      "weapon": "Chronicle"
+    },
+"4406": {
+      "chest": "Linen Robe",
+      "foot": "Wool Shoes",
+      "hand": "Holy Gauntlets",
+      "head": "Hood",
+      "neck": "Amulet",
+      "ring": "Silver Ring of Reflection",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"4429": {
+      "chest": "Plate Mail",
+      "foot": "Ornate Greaves",
+      "hand": "Silk Gloves",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"4466": {
+      "chest": "Demon Husk",
+      "foot": "Silk Slippers",
+      "hand": "Demon's Hands",
+      "head": "Ancient Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Enlightenment",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle of Protection"
+    },
+"4608": {
+      "chest": "Dragonskin Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Dragonskin Gloves of Brilliance",
+      "head": "Leather Cap",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Rage",
+      "waist": "War Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"4610": {
+      "chest": "\"Victory Moon\" Hard Leather Armor of Skill +1",
+      "foot": "Studded Leather Boots",
+      "hand": "Studded Leather Gloves",
+      "head": "War Cap",
+      "neck": "\"Skull Bite\" Pendant of Power +1",
+      "ring": "Silver Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"4625": {
+      "chest": "Plate Mail",
+      "foot": "Greaves",
+      "hand": "Linen Gloves of Giants",
+      "head": "\"Eagle Moon\" Leather Cap of Skill +1",
+      "neck": "Amulet of Enlightenment",
+      "ring": "Bronze Ring of Perfection",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"4626": {
+      "chest": "Divine Robe",
+      "foot": "Studded Leather Boots of the Twins",
+      "hand": "\"Rune Sun\" Heavy Gloves of Perfection",
+      "head": "Hood",
+      "neck": "\"Pandemonium Bite\" Pendant of Anger +1",
+      "ring": "Titanium Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"4637": {
+      "chest": "Ornate Chestplate",
+      "foot": "Wool Shoes",
+      "hand": "Dragonskin Gloves of Reflection",
+      "head": "Silk Hood",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"4647": {
+      "chest": "Linen Robe",
+      "foot": "Silk Slippers of Detection",
+      "hand": "Leather Gloves",
+      "head": "Full Helm of Skill",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"4651": {
+      "chest": "Ring Mail",
+      "foot": "Chain Boots of Rage",
+      "hand": "Chain Gloves of Power",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"4672": {
+      "chest": "Ring Mail",
+      "foot": "Divine Slippers",
+      "hand": "Leather Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"4683": {
+      "chest": "Leather Armor of Perfection",
+      "foot": "\"Rune Glow\" Divine Slippers of Skill",
+      "hand": "Ornate Gauntlets",
+      "head": "Divine Hood",
+      "neck": "Pendant",
+      "ring": "\"Honour Bender\" Titanium Ring of Power +1",
+      "waist": "Linen Sash of Perfection",
+      "weapon": "Chronicle"
+    },
+"4707": {
+      "chest": "Linen Robe",
+      "foot": "\"Bramble Whisper\" Studded Leather Boots of Perfection",
+      "hand": "Gloves of Enlightenment",
+      "head": "War Cap",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "\"Dragon Roar\" Brightsilk Sash of Reflection",
+      "weapon": "Chronicle"
+    },
+"4713": {
+      "chest": "Leather Armor",
+      "foot": "Demonhide Boots of Reflection",
+      "hand": "Gauntlets",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"4719": {
+      "chest": "Linen Robe",
+      "foot": "Leather Boots",
+      "hand": "Chain Gloves",
+      "head": "Cap of Brilliance",
+      "neck": "Necklace of Vitriol",
+      "ring": "Titanium Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"4749": {
+      "chest": "Ornate Chestplate",
+      "foot": "Linen Shoes",
+      "hand": "Demon's Hands of Protection",
+      "head": "Silk Hood",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"4795": {
+      "chest": "Holy Chestplate",
+      "foot": "\"Hypnotic Root\" Heavy Boots of Giants",
+      "hand": "Wool Gloves",
+      "head": "\"Foe Bite\" Divine Hood of Enlightenment +1",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"4802": {
+      "chest": "Holy Chestplate",
+      "foot": "Hard Leather Boots",
+      "hand": "Chain Gloves",
+      "head": "\"Havoc Root\" Crown of Rage",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"4815": {
+      "chest": "Ring Mail",
+      "foot": "Demonhide Boots",
+      "hand": "Studded Leather Gloves",
+      "head": "Great Helm",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"4820": {
+      "chest": "Demon Husk of Anger",
+      "foot": "Studded Leather Boots",
+      "hand": "Chain Gloves of Titans",
+      "head": "Crown of Brilliance",
+      "neck": "Necklace of Detection",
+      "ring": "Platinum Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"4824": {
+      "chest": "Ring Mail",
+      "foot": "Greaves",
+      "hand": "Wool Gloves",
+      "head": "Great Helm",
+      "neck": "Pendant of the Twins",
+      "ring": "Bronze Ring of Brilliance",
+      "waist": "Leather Belt of Brilliance",
+      "weapon": "Chronicle"
+    },
+"4828": {
+      "chest": "Divine Robe",
+      "foot": "Shoes",
+      "hand": "\"Behemoth Whisper\" Linen Gloves of the Fox",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"4840": {
+      "chest": "Leather Armor",
+      "foot": "Hard Leather Boots",
+      "hand": "Wool Gloves",
+      "head": "Leather Cap",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"4854": {
+      "chest": "Chain Mail of Reflection",
+      "foot": "Dragonskin Boots",
+      "hand": "Chain Gloves of Power",
+      "head": "Ornate Helm",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"4862": {
+      "chest": "Holy Chestplate",
+      "foot": "Dragonskin Boots",
+      "hand": "Leather Gloves",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "\"Light's Roar\" Gold Ring of Fury",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"4864": {
+      "chest": "Leather Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Leather Cap",
+      "neck": "\"Blight Shout\" Pendant of Vitriol +1",
+      "ring": "Silver Ring",
+      "waist": "Brightsilk Sash of Fury",
+      "weapon": "Chronicle"
+    },
+"4898": {
+      "chest": "\"Corruption Grasp\" Demon Husk of Brilliance +1",
+      "foot": "Ornate Greaves of Enlightenment",
+      "hand": "Holy Gauntlets",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Mesh Belt of Perfection",
+      "weapon": "Chronicle"
+    },
+"4904": {
+      "chest": "Chain Mail",
+      "foot": "Shoes",
+      "hand": "\"Dread Bite\" Hard Leather Gloves of the Fox +1",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"4911": {
+      "chest": "Linen Robe",
+      "foot": "Greaves",
+      "hand": "Ornate Gauntlets",
+      "head": "Silk Hood of the Twins",
+      "neck": "\"Vortex Whisper\" Amulet of Perfection",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"4946": {
+      "chest": "\"Mind Bite\" Ornate Chestplate of Titans +1",
+      "foot": "Heavy Boots",
+      "hand": "Linen Gloves",
+      "head": "Silk Hood",
+      "neck": "\"Blight Bite\" Pendant of Perfection +1",
+      "ring": "Titanium Ring of Protection",
+      "waist": "Ornate Belt of Detection",
+      "weapon": "Chronicle"
+    },
+"4952": {
+      "chest": "Dragonskin Armor",
+      "foot": "Demonhide Boots of Detection",
+      "hand": "Studded Leather Gloves",
+      "head": "Ornate Helm of Anger",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"4968": {
+      "chest": "Divine Robe",
+      "foot": "Heavy Boots",
+      "hand": "Chain Gloves",
+      "head": "Leather Cap",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Studded Leather Belt of Protection",
+      "weapon": "Chronicle"
+    },
+"4983": {
+      "chest": "Divine Robe of Perfection",
+      "foot": "Heavy Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Demon Crown",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"4988": {
+      "chest": "Demon Husk",
+      "foot": "Hard Leather Boots of Detection",
+      "hand": "Dragonskin Gloves",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"4997": {
+      "chest": "Leather Armor",
+      "foot": "Heavy Boots",
+      "hand": "Holy Gauntlets of Power",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "\"Apocalypse Glow\" War Belt of Brilliance",
+      "weapon": "Chronicle of Detection"
+    },
+"5018": {
+      "chest": "Hard Leather Armor",
+      "foot": "Leather Boots",
+      "hand": "Divine Gloves",
+      "head": "Leather Cap",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"5019": {
+      "chest": "Shirt",
+      "foot": "Holy Greaves",
+      "hand": "Gloves",
+      "head": "Leather Cap",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle of Rage"
+    },
+"5030": {
+      "chest": "Divine Robe",
+      "foot": "\"Sorrow Peak\" Hard Leather Boots of Perfection +1",
+      "hand": "Demon's Hands",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "\"Dread Moon\" Titanium Ring of Skill +1",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"5034": {
+      "chest": "Divine Robe",
+      "foot": "Divine Slippers",
+      "hand": "Chain Gloves",
+      "head": "Ancient Helm of Anger",
+      "neck": "Necklace",
+      "ring": "\"Pain Whisper\" Titanium Ring of the Fox",
+      "waist": "\"Armageddon Peak\" Plated Belt of Power +1",
+      "weapon": "Chronicle"
+    },
+"5073": {
+      "chest": "Hard Leather Armor",
+      "foot": "Linen Shoes",
+      "hand": "Divine Gloves",
+      "head": "War Cap",
+      "neck": "Amulet",
+      "ring": "Gold Ring of Anger",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"5076": {
+      "chest": "Holy Chestplate",
+      "foot": "Hard Leather Boots",
+      "hand": "Gloves",
+      "head": "Full Helm of Perfection",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"5084": {
+      "chest": "Leather Armor",
+      "foot": "Greaves of Detection",
+      "hand": "Dragonskin Gloves",
+      "head": "\"Blight Bite\" Divine Hood of Perfection +1",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"5098": {
+      "chest": "Robe of Perfection",
+      "foot": "Linen Shoes",
+      "hand": "Divine Gloves",
+      "head": "\"Victory Bender\" Divine Hood of Power +1",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "\"Woe Grasp\" Demonhide Belt of Skill +1",
+      "weapon": "Chronicle of Protection"
+    },
+"5103": {
+      "chest": "Holy Chestplate",
+      "foot": "Shoes",
+      "hand": "Holy Gauntlets",
+      "head": "Great Helm",
+      "neck": "Necklace of Anger",
+      "ring": "Silver Ring of Brilliance",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"5127": {
+      "chest": "Leather Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Leather Gloves",
+      "head": "Linen Hood",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"5137": {
+      "chest": "Chain Mail",
+      "foot": "Silk Slippers",
+      "hand": "Divine Gloves",
+      "head": "Ornate Helm",
+      "neck": "Necklace of Fury",
+      "ring": "Titanium Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"5159": {
+      "chest": "Shirt",
+      "foot": "Ornate Greaves of Brilliance",
+      "hand": "Linen Gloves",
+      "head": "Silk Hood",
+      "neck": "Necklace",
+      "ring": "\"Tempest Bite\" Platinum Ring of Perfection +1",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"5163": {
+      "chest": "Hard Leather Armor",
+      "foot": "Shoes",
+      "hand": "Studded Leather Gloves",
+      "head": "Demon Crown",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"5187": {
+      "chest": "Dragonskin Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Demon's Hands",
+      "head": "Great Helm",
+      "neck": "Amulet",
+      "ring": "Platinum Ring of Brilliance",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle of Rage"
+    },
+"5198": {
+      "chest": "Silk Robe",
+      "foot": "Leather Boots of the Twins",
+      "hand": "Leather Gloves",
+      "head": "Ornate Helm",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"5201": {
+      "chest": "Ring Mail",
+      "foot": "\"Armageddon Moon\" Greaves of Detection +1",
+      "hand": "Leather Gloves",
+      "head": "\"Rage Moon\" Demon Crown of the Twins +1",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"5210": {
+      "chest": "Leather Armor",
+      "foot": "Chain Boots of Anger",
+      "hand": "Wool Gloves of Anger",
+      "head": "Great Helm",
+      "neck": "Pendant of Reflection",
+      "ring": "Titanium Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"5218": {
+      "chest": "Studded Leather Armor",
+      "foot": "Greaves",
+      "hand": "Studded Leather Gloves",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"5250": {
+      "chest": "Ring Mail",
+      "foot": "Wool Shoes of Vitriol",
+      "hand": "Leather Gloves of Skill",
+      "head": "Cap",
+      "neck": "\"Oblivion Bender\" Pendant of Reflection +1",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"5253": {
+      "chest": "Leather Armor of Skill",
+      "foot": "Ornate Greaves",
+      "hand": "Dragonskin Gloves",
+      "head": "Ancient Helm",
+      "neck": "Necklace of Detection",
+      "ring": "Bronze Ring",
+      "waist": "Hard Leather Belt of the Fox",
+      "weapon": "Chronicle"
+    },
+"5271": {
+      "chest": "Divine Robe",
+      "foot": "Leather Boots",
+      "hand": "Wool Gloves",
+      "head": "Crown of Reflection",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"5273": {
+      "chest": "Studded Leather Armor of Skill",
+      "foot": "Shoes of Skill",
+      "hand": "Silk Gloves",
+      "head": "\"Sorrow Bender\" Leather Cap of the Fox +1",
+      "neck": "Pendant",
+      "ring": "Gold Ring of Detection",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"5282": {
+      "chest": "Studded Leather Armor",
+      "foot": "Chain Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Demon Crown",
+      "neck": "Necklace",
+      "ring": "\"Armageddon Peak\" Gold Ring of Perfection +1",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"5329": {
+      "chest": "Holy Chestplate",
+      "foot": "Hard Leather Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring of Anger",
+      "waist": "Sash of Vitriol",
+      "weapon": "Chronicle"
+    },
+"5340": {
+      "chest": "Divine Robe",
+      "foot": "Leather Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Ancient Helm of Power",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"5344": {
+      "chest": "Divine Robe",
+      "foot": "Wool Shoes",
+      "hand": "Dragonskin Gloves of Protection",
+      "head": "\"Vengeance Sun\" Helm of Anger",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Sash of Detection",
+      "weapon": "Chronicle of Protection"
+    },
+"5349": {
+      "chest": "Robe of Enlightenment",
+      "foot": "Holy Greaves",
+      "hand": "Holy Gauntlets of the Twins",
+      "head": "\"Soul Sun\" Linen Hood of Enlightenment",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"5352": {
+      "chest": "Ring Mail",
+      "foot": "Linen Shoes",
+      "hand": "Silk Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt of Brilliance",
+      "weapon": "Chronicle"
+    },
+"5357": {
+      "chest": "Studded Leather Armor",
+      "foot": "Leather Boots",
+      "hand": "Divine Gloves",
+      "head": "Ornate Helm",
+      "neck": "Amulet",
+      "ring": "\"Morbid Sun\" Silver Ring of Reflection",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"5360": {
+      "chest": "Silk Robe of Fury",
+      "foot": "Holy Greaves",
+      "hand": "Demon's Hands",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"5364": {
+      "chest": "\"Apocalypse Glow\" Shirt of Brilliance",
+      "foot": "Studded Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "\"Havoc Root\" Linen Hood of Protection",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"5403": {
+      "chest": "Plate Mail",
+      "foot": "Divine Slippers",
+      "hand": "Chain Gloves",
+      "head": "Dragon's Crown of the Twins",
+      "neck": "Amulet",
+      "ring": "\"Tempest Moon\" Bronze Ring of Detection +1",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"5429": {
+      "chest": "Demon Husk of Anger",
+      "foot": "Greaves",
+      "hand": "Gloves",
+      "head": "Ornate Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"5458": {
+      "chest": "Shirt",
+      "foot": "Shoes",
+      "hand": "Studded Leather Gloves of Vitriol",
+      "head": "\"Honour Bender\" Demon Crown of Power +1",
+      "neck": "Necklace of Skill",
+      "ring": "Platinum Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"5481": {
+      "chest": "Ornate Chestplate",
+      "foot": "Dragonskin Boots",
+      "hand": "Wool Gloves",
+      "head": "Great Helm of Perfection",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"5501": {
+      "chest": "Dragonskin Armor of Perfection",
+      "foot": "Linen Shoes",
+      "hand": "Gloves",
+      "head": "Demon Crown",
+      "neck": "Amulet of Skill",
+      "ring": "Titanium Ring of Enlightenment",
+      "waist": "Silk Sash of Detection",
+      "weapon": "Chronicle of Vitriol"
+    },
+"5509": {
+      "chest": "\"Apocalypse Sun\" Holy Chestplate of Anger",
+      "foot": "Demonhide Boots",
+      "hand": "\"Eagle Grasp\" Hard Leather Gloves of Vitriol +1",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "Gold Ring of the Fox",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"5519": {
+      "chest": "Plate Mail of Reflection",
+      "foot": "Heavy Boots",
+      "hand": "Divine Gloves of Protection",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"5524": {
+      "chest": "Dragonskin Armor",
+      "foot": "Divine Slippers",
+      "hand": "Silk Gloves",
+      "head": "Divine Hood of Protection",
+      "neck": "Pendant",
+      "ring": "\"Eagle Bender\" Bronze Ring of Enlightenment +1",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"5528": {
+      "chest": "Silk Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Hood",
+      "neck": "\"Dragon Root\" Amulet of Brilliance",
+      "ring": "\"Honour Peak\" Gold Ring of Enlightenment +1",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"5535": {
+      "chest": "Silk Robe",
+      "foot": "Silk Slippers",
+      "hand": "Holy Gauntlets of Fury",
+      "head": "Divine Hood of Protection",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Silk Sash of Power",
+      "weapon": "Chronicle of Rage"
+    },
+"5558": {
+      "chest": "Linen Robe",
+      "foot": "Wool Shoes",
+      "hand": "Silk Gloves",
+      "head": "Silk Hood",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Ornate Belt of Power",
+      "weapon": "Chronicle"
+    },
+"5611": {
+      "chest": "Demon Husk",
+      "foot": "Hard Leather Boots",
+      "hand": "\"Corpse Whisper\" Linen Gloves of Fury",
+      "head": "\"Kraken Peak\" Great Helm of Anger +1",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"5612": {
+      "chest": "Robe of Perfection",
+      "foot": "Heavy Boots of Skill",
+      "hand": "Divine Gloves",
+      "head": "Dragon's Crown of Detection",
+      "neck": "Necklace",
+      "ring": "\"Behemoth Sun\" Bronze Ring of Reflection",
+      "waist": "Wool Sash of Rage",
+      "weapon": "Chronicle"
+    },
+"5617": {
+      "chest": "Ring Mail",
+      "foot": "Demonhide Boots",
+      "hand": "Heavy Gloves of Enlightenment",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"5638": {
+      "chest": "Leather Armor of Detection",
+      "foot": "Leather Boots",
+      "hand": "\"Morbid Roar\" Heavy Gloves of Enlightenment",
+      "head": "Full Helm",
+      "neck": "Necklace",
+      "ring": "\"Grim Grasp\" Platinum Ring of Skill +1",
+      "waist": "War Belt of Detection",
+      "weapon": "Chronicle of Detection"
+    },
+"5647": {
+      "chest": "Silk Robe",
+      "foot": "Wool Shoes",
+      "hand": "Dragonskin Gloves",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"5652": {
+      "chest": "Demon Husk",
+      "foot": "\"Hypnotic Tear\" Heavy Boots of Rage",
+      "hand": "Heavy Gloves",
+      "head": "War Cap of Skill",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"5664": {
+      "chest": "Plate Mail",
+      "foot": "Ornate Greaves",
+      "hand": "Holy Gauntlets",
+      "head": "Crown",
+      "neck": "Necklace of Power",
+      "ring": "Gold Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"5678": {
+      "chest": "\"Demon Peak\" Ornate Chestplate of Perfection +1",
+      "foot": "Dragonskin Boots",
+      "hand": "Ornate Gauntlets of the Fox",
+      "head": "Dragon's Crown of Protection",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"5716": {
+      "chest": "Ornate Chestplate",
+      "foot": "Studded Leather Boots",
+      "hand": "Gloves",
+      "head": "Helm",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"5737": {
+      "chest": "\"Vortex Root\" Studded Leather Armor of Giants",
+      "foot": "Demonhide Boots",
+      "hand": "Chain Gloves of Giants",
+      "head": "Ancient Helm",
+      "neck": "Pendant of Power",
+      "ring": "Gold Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"5744": {
+      "chest": "Leather Armor",
+      "foot": "\"Ghoul Whisper\" Studded Leather Boots of Titans",
+      "hand": "\"Hypnotic Sun\" Ornate Gauntlets of Anger",
+      "head": "\"Havoc Root\" Helm of Protection",
+      "neck": "Amulet",
+      "ring": "\"Death Glow\" Silver Ring of Vitriol",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"5753": {
+      "chest": "Divine Robe of Anger",
+      "foot": "\"Rage Grasp\" Shoes of Giants +1",
+      "hand": "Heavy Gloves",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"5793": {
+      "chest": "Divine Robe of Power",
+      "foot": "Heavy Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Ornate Helm",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Skill",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"5831": {
+      "chest": "Divine Robe",
+      "foot": "Holy Greaves of Skill",
+      "hand": "Wool Gloves of the Fox",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "\"Hypnotic Sun\" Silver Ring of Perfection",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"5832": {
+      "chest": "Studded Leather Armor",
+      "foot": "\"Eagle Bite\" Demonhide Boots of Titans +1",
+      "hand": "Hard Leather Gloves of Reflection",
+      "head": "Ancient Helm",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Heavy Belt of Enlightenment",
+      "weapon": "Chronicle"
+    },
+"5846": {
+      "chest": "Demon Husk of Protection",
+      "foot": "Silk Slippers",
+      "hand": "Holy Gauntlets",
+      "head": "Great Helm",
+      "neck": "Amulet",
+      "ring": "Gold Ring of Detection",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"5861": {
+      "chest": "Silk Robe",
+      "foot": "Divine Slippers",
+      "hand": "Heavy Gloves",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Silver Ring of Anger",
+      "waist": "Demonhide Belt of Anger",
+      "weapon": "Chronicle of Rage"
+    },
+"5873": {
+      "chest": "Demon Husk",
+      "foot": "Chain Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Silk Hood",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"5888": {
+      "chest": "Shirt",
+      "foot": "Linen Shoes",
+      "hand": "Demon's Hands of Giants",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt of Vitriol",
+      "weapon": "Chronicle"
+    },
+"5896": {
+      "chest": "Ornate Chestplate of Vitriol",
+      "foot": "Leather Boots",
+      "hand": "Demon's Hands",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"5949": {
+      "chest": "Leather Armor",
+      "foot": "\"Skull Shout\" Greaves of Protection +1",
+      "hand": "Chain Gloves",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"5952": {
+      "chest": "Hard Leather Armor",
+      "foot": "Shoes",
+      "hand": "Divine Gloves",
+      "head": "\"Apocalypse Glow\" Helm of Protection",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"5980": {
+      "chest": "Hard Leather Armor",
+      "foot": "Silk Slippers of Enlightenment",
+      "hand": "Studded Leather Gloves",
+      "head": "\"Ghoul Roar\" Ornate Helm of Power",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"5998": {
+      "chest": "Silk Robe",
+      "foot": "Holy Greaves",
+      "hand": "Holy Gauntlets",
+      "head": "Demon Crown",
+      "neck": "Necklace",
+      "ring": "Titanium Ring of Giants",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"6005": {
+      "chest": "Divine Robe of Protection",
+      "foot": "Ornate Greaves",
+      "hand": "Wool Gloves",
+      "head": "Ancient Helm",
+      "neck": "\"Vortex Sun\" Amulet of Fury",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6050": {
+      "chest": "\"Corruption Grasp\" Demon Husk of the Twins +1",
+      "foot": "Shoes",
+      "hand": "Linen Gloves",
+      "head": "Dragon's Crown of Rage",
+      "neck": "Necklace of Giants",
+      "ring": "Platinum Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"6056": {
+      "chest": "Linen Robe",
+      "foot": "\"Morbid Glow\" Ornate Greaves of Skill",
+      "hand": "Dragonskin Gloves",
+      "head": "Divine Hood",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"6069": {
+      "chest": "Plate Mail",
+      "foot": "Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Great Helm",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"6073": {
+      "chest": "Ornate Chestplate",
+      "foot": "Ornate Greaves",
+      "hand": "Silk Gloves",
+      "head": "War Cap",
+      "neck": "Necklace",
+      "ring": "Bronze Ring of Anger",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"6124": {
+      "chest": "Ornate Chestplate of Vitriol",
+      "foot": "Studded Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Hood",
+      "neck": "Necklace of Brilliance",
+      "ring": "Titanium Ring of Perfection",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6127": {
+      "chest": "Demon Husk",
+      "foot": "Chain Boots",
+      "hand": "Leather Gloves",
+      "head": "Hood",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Studded Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6132": {
+      "chest": "Ornate Chestplate",
+      "foot": "Linen Shoes",
+      "hand": "Ornate Gauntlets",
+      "head": "Hood",
+      "neck": "\"Rage Bite\" Pendant of the Fox +1",
+      "ring": "Titanium Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"6139": {
+      "chest": "Dragonskin Armor of Enlightenment",
+      "foot": "\"Death Tear\" Studded Leather Boots of Detection",
+      "hand": "Leather Gloves of Enlightenment",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Ornate Belt of Perfection",
+      "weapon": "Chronicle"
+    },
+"6153": {
+      "chest": "Holy Chestplate",
+      "foot": "Chain Boots",
+      "hand": "Linen Gloves",
+      "head": "Leather Cap",
+      "neck": "Pendant of Giants",
+      "ring": "Platinum Ring of Anger",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6159": {
+      "chest": "Ornate Chestplate",
+      "foot": "Leather Boots of Fury",
+      "hand": "Leather Gloves",
+      "head": "Dragon's Crown of Vitriol",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"6174": {
+      "chest": "Silk Robe",
+      "foot": "Hard Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "War Cap",
+      "neck": "Pendant of Fury",
+      "ring": "Bronze Ring of Brilliance",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"6196": {
+      "chest": "Hard Leather Armor",
+      "foot": "Wool Shoes",
+      "hand": "Chain Gloves",
+      "head": "Cap",
+      "neck": "Necklace of Power",
+      "ring": "Platinum Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"6223": {
+      "chest": "Leather Armor",
+      "foot": "Divine Slippers",
+      "hand": "Wool Gloves",
+      "head": "Linen Hood",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"6231": {
+      "chest": "Hard Leather Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Wool Gloves",
+      "head": "War Cap",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "\"Mind Peak\" Demonhide Belt of Power +1",
+      "weapon": "Chronicle"
+    },
+"6242": {
+      "chest": "Chain Mail",
+      "foot": "Ornate Greaves",
+      "hand": "\"Kraken Grasp\" Gauntlets of Giants +1",
+      "head": "Crown",
+      "neck": "Necklace",
+      "ring": "Gold Ring of Enlightenment",
+      "waist": "\"Plague Glow\" Heavy Belt of Detection",
+      "weapon": "Chronicle of the Twins"
+    },
+"6290": {
+      "chest": "\"Dusk Roar\" Silk Robe of Anger",
+      "foot": "Linen Shoes",
+      "hand": "Divine Gloves",
+      "head": "Cap",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"6303": {
+      "chest": "Ring Mail of Giants",
+      "foot": "Silk Slippers of Skill",
+      "hand": "\"Grim Bender\" Hard Leather Gloves of Anger +1",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "\"Eagle Bite\" Bronze Ring of Titans +1",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"6310": {
+      "chest": "Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Leather Cap",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"6333": {
+      "chest": "Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "\"Soul Glow\" War Cap of Giants",
+      "neck": "Necklace",
+      "ring": "Titanium Ring of Titans",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"6345": {
+      "chest": "Linen Robe of Rage",
+      "foot": "Linen Shoes",
+      "hand": "Chain Gloves",
+      "head": "Linen Hood",
+      "neck": "Amulet",
+      "ring": "\"Cataclysm Moon\" Bronze Ring of Vitriol +1",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"6387": {
+      "chest": "Linen Robe",
+      "foot": "Silk Slippers of Detection",
+      "hand": "Linen Gloves",
+      "head": "Full Helm",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"6393": {
+      "chest": "Leather Armor of Protection",
+      "foot": "Studded Leather Boots",
+      "hand": "Hard Leather Gloves",
+      "head": "Cap",
+      "neck": "Amulet of Enlightenment",
+      "ring": "Platinum Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6400": {
+      "chest": "Leather Armor",
+      "foot": "Studded Leather Boots",
+      "hand": "Gloves",
+      "head": "Ornate Helm",
+      "neck": "Necklace",
+      "ring": "Titanium Ring of Giants",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"6402": {
+      "chest": "Divine Robe",
+      "foot": "Wool Shoes",
+      "hand": "Dragonskin Gloves",
+      "head": "Cap",
+      "neck": "Pendant of Protection",
+      "ring": "Titanium Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"6405": {
+      "chest": "Studded Leather Armor",
+      "foot": "\"Bramble Roar\" Heavy Boots of Power",
+      "hand": "Chain Gloves of Rage",
+      "head": "Leather Cap of the Twins",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Titans",
+      "waist": "Sash",
+      "weapon": "Chronicle of the Twins"
+    },
+"6428": {
+      "chest": "Plate Mail",
+      "foot": "Heavy Boots",
+      "hand": "Wool Gloves",
+      "head": "Full Helm of Enlightenment",
+      "neck": "Amulet",
+      "ring": "Bronze Ring of Giants",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"6438": {
+      "chest": "Plate Mail of Rage",
+      "foot": "Chain Boots",
+      "hand": "\"Armageddon Moon\" Silk Gloves of Protection +1",
+      "head": "Full Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Giants",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"6456": {
+      "chest": "Studded Leather Armor",
+      "foot": "Silk Slippers",
+      "hand": "Ornate Gauntlets",
+      "head": "Divine Hood",
+      "neck": "Necklace",
+      "ring": "Platinum Ring of Detection",
+      "waist": "\"Vengeance Roar\" Linen Sash of Titans",
+      "weapon": "Chronicle"
+    },
+"6493": {
+      "chest": "Dragonskin Armor",
+      "foot": "\"Plague Root\" Studded Leather Boots of Vitriol",
+      "hand": "Chain Gloves",
+      "head": "Dragon's Crown",
+      "neck": "Necklace",
+      "ring": "Silver Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6551": {
+      "chest": "Plate Mail",
+      "foot": "Dragonskin Boots of Anger",
+      "hand": "Heavy Gloves",
+      "head": "Linen Hood",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"6564": {
+      "chest": "Holy Chestplate",
+      "foot": "Divine Slippers",
+      "hand": "Studded Leather Gloves of Anger",
+      "head": "\"Light's Roar\" War Cap of Power",
+      "neck": "Pendant of Giants",
+      "ring": "Platinum Ring",
+      "waist": "Sash of Detection",
+      "weapon": "Chronicle"
+    },
+"6565": {
+      "chest": "Shirt",
+      "foot": "Demonhide Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Linen Hood of Anger",
+      "neck": "Necklace of Fury",
+      "ring": "Bronze Ring",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle"
+    },
+"6567": {
+      "chest": "Leather Armor",
+      "foot": "\"Storm Whisper\" Studded Leather Boots of Perfection",
+      "hand": "Silk Gloves",
+      "head": "\"Blight Grasp\" Hood of Protection +1",
+      "neck": "Necklace",
+      "ring": "\"Foe Peak\" Silver Ring of Titans +1",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"6606": {
+      "chest": "\"Armageddon Peak\" Ring Mail of the Fox +1",
+      "foot": "Wool Shoes of Brilliance",
+      "hand": "Wool Gloves of the Fox",
+      "head": "Cap",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"6609": {
+      "chest": "Linen Robe",
+      "foot": "Divine Slippers",
+      "hand": "Holy Gauntlets",
+      "head": "Ornate Helm",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"6610": {
+      "chest": "\"Grim Bite\" Hard Leather Armor of Power +1",
+      "foot": "Wool Shoes",
+      "hand": "Demon's Hands",
+      "head": "Silk Hood of Anger",
+      "neck": "Necklace",
+      "ring": "Silver Ring of Titans",
+      "waist": "Dragonskin Belt of Giants",
+      "weapon": "Chronicle"
+    },
+"6636": {
+      "chest": "Robe",
+      "foot": "Demonhide Boots",
+      "hand": "\"Vengeance Tear\" Ornate Gauntlets of the Twins",
+      "head": "Linen Hood",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Skill",
+      "waist": "Leather Belt of Perfection",
+      "weapon": "Chronicle"
+    },
+"6642": {
+      "chest": "Hard Leather Armor of Power",
+      "foot": "Silk Slippers",
+      "hand": "Linen Gloves",
+      "head": "Silk Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle of Rage"
+    },
+"6670": {
+      "chest": "Ring Mail of the Fox",
+      "foot": "Chain Boots",
+      "hand": "Chain Gloves",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle of Skill"
+    },
+"6711": {
+      "chest": "Demon Husk",
+      "foot": "Dragonskin Boots",
+      "hand": "Chain Gloves",
+      "head": "Ancient Helm",
+      "neck": "\"Kraken Bender\" Pendant of Anger +1",
+      "ring": "\"Kraken Shout\" Titanium Ring of Vitriol +1",
+      "waist": "Linen Sash of Giants",
+      "weapon": "Chronicle"
+    },
+"6715": {
+      "chest": "Hard Leather Armor of Reflection",
+      "foot": "\"Sorrow Grasp\" Greaves of Giants +1",
+      "hand": "Gauntlets",
+      "head": "Cap of Giants",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"6727": {
+      "chest": "\"Mind Grasp\" Ring Mail of Brilliance +1",
+      "foot": "Silk Slippers",
+      "hand": "Dragonskin Gloves",
+      "head": "Crown",
+      "neck": "Pendant of Vitriol",
+      "ring": "Gold Ring of Perfection",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"6753": {
+      "chest": "Robe",
+      "foot": "Holy Greaves",
+      "hand": "Holy Gauntlets",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6754": {
+      "chest": "Shirt of Fury",
+      "foot": "Demonhide Boots of Reflection",
+      "hand": "Gauntlets of Protection",
+      "head": "Ancient Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"6758": {
+      "chest": "Chain Mail of Skill",
+      "foot": "\"Corpse Sun\" Heavy Boots of Fury",
+      "hand": "Chain Gloves",
+      "head": "\"Ghoul Sun\" Helm of Titans",
+      "neck": "Pendant",
+      "ring": "Titanium Ring of Anger",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"6789": {
+      "chest": "Studded Leather Armor of Perfection",
+      "foot": "Divine Slippers",
+      "hand": "Linen Gloves",
+      "head": "Great Helm of Anger",
+      "neck": "Amulet of Detection",
+      "ring": "Platinum Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"6793": {
+      "chest": "Ornate Chestplate",
+      "foot": "Holy Greaves of Power",
+      "hand": "\"Rune Root\" Ornate Gauntlets of Detection",
+      "head": "Dragon's Crown",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Ornate Belt of Brilliance",
+      "weapon": "Chronicle"
+    },
+"6811": {
+      "chest": "Divine Robe of Reflection",
+      "foot": "Dragonskin Boots",
+      "hand": "Holy Gauntlets",
+      "head": "War Cap",
+      "neck": "Necklace of Protection",
+      "ring": "Gold Ring",
+      "waist": "Linen Sash",
+      "weapon": "Chronicle of the Twins"
+    },
+"6852": {
+      "chest": "Holy Chestplate",
+      "foot": "Studded Leather Boots",
+      "hand": "Heavy Gloves of Protection",
+      "head": "Silk Hood",
+      "neck": "Amulet of Giants",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Giants"
+    },
+"6862": {
+      "chest": "Chain Mail",
+      "foot": "Ornate Greaves",
+      "hand": "Heavy Gloves",
+      "head": "\"Eagle Bite\" Leather Cap of Reflection +1",
+      "neck": "Amulet of Fury",
+      "ring": "Gold Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"6880": {
+      "chest": "Ring Mail",
+      "foot": "Divine Slippers",
+      "hand": "Gloves",
+      "head": "Linen Hood of Giants",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Wool Sash of Rage",
+      "weapon": "Chronicle of Protection"
+    },
+"6927": {
+      "chest": "Dragonskin Armor",
+      "foot": "Heavy Boots",
+      "hand": "Hard Leather Gloves of the Twins",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Mesh Belt of Vitriol",
+      "weapon": "Chronicle of Vitriol"
+    },
+"6930": {
+      "chest": "Robe",
+      "foot": "Dragonskin Boots",
+      "hand": "Demon's Hands",
+      "head": "Silk Hood",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"6941": {
+      "chest": "Linen Robe",
+      "foot": "Hard Leather Boots of Protection",
+      "hand": "Demon's Hands",
+      "head": "War Cap",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"6945": {
+      "chest": "Dragonskin Armor of the Fox",
+      "foot": "Greaves",
+      "hand": "Holy Gauntlets of Titans",
+      "head": "Crown",
+      "neck": "Pendant of Anger",
+      "ring": "Silver Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"6968": {
+      "chest": "Chain Mail",
+      "foot": "Shoes of the Fox",
+      "hand": "Hard Leather Gloves of Skill",
+      "head": "\"Shimmering Moon\" Hood of Vitriol +1",
+      "neck": "Necklace of Skill",
+      "ring": "Platinum Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle of Rage"
+    },
+"6978": {
+      "chest": "Holy Chestplate",
+      "foot": "Silk Slippers",
+      "hand": "\"Armageddon Moon\" Gauntlets of Vitriol +1",
+      "head": "Dragon's Crown",
+      "neck": "\"Cataclysm Bite\" Pendant of Power +1",
+      "ring": "Gold Ring",
+      "waist": "\"Pandemonium Peak\" Silk Sash of Power +1",
+      "weapon": "Chronicle"
+    },
+"7008": {
+      "chest": "Hard Leather Armor of Fury",
+      "foot": "Shoes",
+      "hand": "Studded Leather Gloves",
+      "head": "\"Hypnotic Sun\" Linen Hood of Perfection",
+      "neck": "\"Gloom Bite\" Pendant of Reflection +1",
+      "ring": "Gold Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"7024": {
+      "chest": "Studded Leather Armor of Perfection",
+      "foot": "Linen Shoes",
+      "hand": "\"Gloom Shout\" Gloves of Giants +1",
+      "head": "Demon Crown",
+      "neck": "Necklace",
+      "ring": "Silver Ring of Perfection",
+      "waist": "\"Rage Bite\" Silk Sash of Titans +1",
+      "weapon": "Chronicle of Giants"
+    },
+"7040": {
+      "chest": "Robe",
+      "foot": "Shoes",
+      "hand": "Wool Gloves",
+      "head": "Ornate Helm",
+      "neck": "Necklace",
+      "ring": "Titanium Ring of Reflection",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"7054": {
+      "chest": "Divine Robe",
+      "foot": "Greaves",
+      "hand": "Ornate Gauntlets",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"7066": {
+      "chest": "Divine Robe of Vitriol",
+      "foot": "Linen Shoes",
+      "hand": "Studded Leather Gloves",
+      "head": "Silk Hood",
+      "neck": "Pendant of Titans",
+      "ring": "Gold Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"7071": {
+      "chest": "Silk Robe",
+      "foot": "Demonhide Boots",
+      "hand": "Divine Gloves",
+      "head": "Hood",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle"
+    },
+"7074": {
+      "chest": "Chain Mail",
+      "foot": "Greaves",
+      "hand": "Chain Gloves",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "\"Oblivion Grasp\" Titanium Ring of Skill +1",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"7090": {
+      "chest": "Ring Mail",
+      "foot": "Linen Shoes",
+      "hand": "Gauntlets",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"7112": {
+      "chest": "Plate Mail",
+      "foot": "Dragonskin Boots of Reflection",
+      "hand": "Holy Gauntlets",
+      "head": "Divine Hood of Protection",
+      "neck": "Pendant of Skill",
+      "ring": "Bronze Ring of Protection",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle of Vitriol"
+    },
+"7130": {
+      "chest": "Demon Husk of Perfection",
+      "foot": "Heavy Boots",
+      "hand": "Chain Gloves",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "\"Behemoth Sun\" Platinum Ring of Perfection",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"7173": {
+      "chest": "Divine Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "\"Armageddon Bite\" Great Helm of Titans +1",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle of Detection"
+    },
+"7218": {
+      "chest": "\"Eagle Shout\" Hard Leather Armor of Detection +1",
+      "foot": "Chain Boots of Detection",
+      "hand": "Holy Gauntlets",
+      "head": "Silk Hood of the Fox",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of Vitriol"
+    },
+"7248": {
+      "chest": "\"Carrion Whisper\" Chain Mail of Anger",
+      "foot": "Silk Slippers",
+      "hand": "Heavy Gloves",
+      "head": "Leather Cap",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle of Protection"
+    },
+"7250": {
+      "chest": "\"Corpse Glow\" Silk Robe of Rage",
+      "foot": "Chain Boots",
+      "hand": "Silk Gloves",
+      "head": "Demon Crown",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"7278": {
+      "chest": "Holy Chestplate",
+      "foot": "Heavy Boots",
+      "hand": "Heavy Gloves of Anger",
+      "head": "Crown",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"7279": {
+      "chest": "Divine Robe",
+      "foot": "Heavy Boots",
+      "hand": "\"Apocalypse Tear\" Ornate Gauntlets of the Twins",
+      "head": "Ornate Helm",
+      "neck": "Amulet",
+      "ring": "\"Corruption Grasp\" Platinum Ring of Vitriol +1",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"7303": {
+      "chest": "Ornate Chestplate",
+      "foot": "Ornate Greaves",
+      "hand": "Silk Gloves",
+      "head": "Cap",
+      "neck": "Pendant",
+      "ring": "\"Soul Whisper\" Bronze Ring of Perfection",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"7307": {
+      "chest": "Divine Robe",
+      "foot": "Dragonskin Boots of Detection",
+      "hand": "Holy Gauntlets",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"7316": {
+      "chest": "Shirt",
+      "foot": "Divine Slippers",
+      "hand": "Divine Gloves",
+      "head": "\"Carrion Whisper\" Helm of the Fox",
+      "neck": "Necklace of Power",
+      "ring": "Bronze Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"7328": {
+      "chest": "Linen Robe",
+      "foot": "Ornate Greaves",
+      "hand": "Heavy Gloves of Vitriol",
+      "head": "Ornate Helm",
+      "neck": "Amulet",
+      "ring": "Platinum Ring",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"7370": {
+      "chest": "Hard Leather Armor",
+      "foot": "Dragonskin Boots",
+      "hand": "Silk Gloves",
+      "head": "Linen Hood",
+      "neck": "Amulet",
+      "ring": "Gold Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"7405": {
+      "chest": "Plate Mail",
+      "foot": "Greaves",
+      "hand": "Chain Gloves",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "Bronze Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"7420": {
+      "chest": "Studded Leather Armor of Fury",
+      "foot": "Hard Leather Boots",
+      "hand": "Demon's Hands",
+      "head": "Full Helm of Fury",
+      "neck": "Amulet",
+      "ring": "Bronze Ring of the Fox",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"7433": {
+      "chest": "Ornate Chestplate of Reflection",
+      "foot": "Silk Slippers",
+      "hand": "Ornate Gauntlets",
+      "head": "Silk Hood",
+      "neck": "Amulet",
+      "ring": "Titanium Ring",
+      "waist": "Hard Leather Belt",
+      "weapon": "Chronicle of Rage"
+    },
+"7440": {
+      "chest": "Divine Robe of Enlightenment",
+      "foot": "Dragonskin Boots of Reflection",
+      "hand": "Holy Gauntlets of Skill",
+      "head": "Helm",
+      "neck": "Amulet",
+      "ring": "Silver Ring",
+      "waist": "Ornate Belt",
+      "weapon": "Chronicle"
+    },
+"7478": {
+      "chest": "Leather Armor of the Fox",
+      "foot": "Linen Shoes",
+      "hand": "Gauntlets",
+      "head": "War Cap",
+      "neck": "Amulet of Enlightenment",
+      "ring": "\"Soul Glow\" Silver Ring of the Twins",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"7499": {
+      "chest": "Hard Leather Armor",
+      "foot": "Demonhide Boots",
+      "hand": "Linen Gloves",
+      "head": "Crown of Perfection",
+      "neck": "Necklace of Brilliance",
+      "ring": "Silver Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle of Brilliance"
+    },
+"7502": {
+      "chest": "Plate Mail of Power",
+      "foot": "Leather Boots",
+      "hand": "Studded Leather Gloves",
+      "head": "War Cap",
+      "neck": "Pendant of Protection",
+      "ring": "Gold Ring of Rage",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"7515": {
+      "chest": "Dragonskin Armor",
+      "foot": "Ornate Greaves",
+      "hand": "Holy Gauntlets",
+      "head": "Great Helm",
+      "neck": "Pendant",
+      "ring": "Bronze Ring",
+      "waist": "War Belt",
+      "weapon": "Chronicle"
+    },
+"7532": {
+      "chest": "Plate Mail of Reflection",
+      "foot": "Greaves",
+      "hand": "Holy Gauntlets",
+      "head": "Helm",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"7543": {
+      "chest": "Dragonskin Armor",
+      "foot": "Heavy Boots",
+      "hand": "Gauntlets",
+      "head": "Great Helm",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Brightsilk Sash of Brilliance",
+      "weapon": "Chronicle"
+    },
+"7573": {
+      "chest": "Linen Robe of the Fox",
+      "foot": "Divine Slippers",
+      "hand": "\"Dragon Sun\" Divine Gloves of Power",
+      "head": "Helm of the Twins",
+      "neck": "Pendant",
+      "ring": "Gold Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle of the Twins"
+    },
+"7582": {
+      "chest": "Leather Armor",
+      "foot": "Studded Leather Boots of Rage",
+      "hand": "Gauntlets of Rage",
+      "head": "\"Rune Root\" Helm of Giants",
+      "neck": "Necklace",
+      "ring": "Gold Ring",
+      "waist": "Ornate Belt of Perfection",
+      "weapon": "Chronicle"
+    },
+"7636": {
+      "chest": "\"Skull Peak\" Linen Robe of Reflection +1",
+      "foot": "Studded Leather Boots of Rage",
+      "hand": "Heavy Gloves",
+      "head": "Cap of the Fox",
+      "neck": "\"Foe Bender\" Pendant of the Fox +1",
+      "ring": "Platinum Ring of Reflection",
+      "waist": "\"Hypnotic Glow\" Brightsilk Sash of the Twins",
+      "weapon": "Chronicle"
+    },
+"7652": {
+      "chest": "Holy Chestplate of Titans",
+      "foot": "Demonhide Boots",
+      "hand": "Dragonskin Gloves",
+      "head": "Cap",
+      "neck": "\"Rage Shout\" Pendant of Giants +1",
+      "ring": "Platinum Ring",
+      "waist": "Leather Belt of Giants",
+      "weapon": "Chronicle"
+    },
+"7668": {
+      "chest": "Leather Armor",
+      "foot": "Hard Leather Boots of Detection",
+      "hand": "Divine Gloves of Fury",
+      "head": "Great Helm of Vitriol",
+      "neck": "\"Victory Shout\" Pendant of Skill +1",
+      "ring": "Gold Ring",
+      "waist": "Plated Belt",
+      "weapon": "Chronicle"
+    },
+"7719": {
+      "chest": "Shirt",
+      "foot": "Hard Leather Boots",
+      "hand": "\"Maelstrom Root\" Divine Gloves of Protection",
+      "head": "Dragon's Crown",
+      "neck": "Pendant",
+      "ring": "Platinum Ring of Giants",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"7746": {
+      "chest": "Chain Mail",
+      "foot": "\"Corpse Roar\" Linen Shoes of Anger",
+      "hand": "Silk Gloves of Fury",
+      "head": "Crown",
+      "neck": "Amulet",
+      "ring": "Bronze Ring of Vitriol",
+      "waist": "Sash",
+      "weapon": "Chronicle"
+    },
+"7753": {
+      "chest": "Leather Armor",
+      "foot": "Dragonskin Boots",
+      "hand": "Heavy Gloves",
+      "head": "Great Helm",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"7771": {
+      "chest": "Holy Chestplate",
+      "foot": "Demonhide Boots",
+      "hand": "Gloves",
+      "head": "Divine Hood",
+      "neck": "Necklace of Reflection",
+      "ring": "Silver Ring",
+      "waist": "Linen Sash of Detection",
+      "weapon": "Chronicle"
+    },
+"7775": {
+      "chest": "Dragonskin Armor of the Twins",
+      "foot": "Chain Boots",
+      "hand": "Wool Gloves",
+      "head": "\"Corpse Root\" Crown of Giants",
+      "neck": "Necklace of Reflection",
+      "ring": "Bronze Ring",
+      "waist": "Demonhide Belt of Titans",
+      "weapon": "Chronicle"
+    },
+"7780": {
+      "chest": "Leather Armor",
+      "foot": "Holy Greaves",
+      "hand": "\"Pain Glow\" Studded Leather Gloves of Giants",
+      "head": "Ancient Helm",
+      "neck": "Necklace",
+      "ring": "Bronze Ring",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle"
+    },
+"7788": {
+      "chest": "Chain Mail",
+      "foot": "Ornate Greaves",
+      "hand": "Holy Gauntlets",
+      "head": "Leather Cap",
+      "neck": "Amulet",
+      "ring": "Bronze Ring of Protection",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle"
+    },
+"7790": {
+      "chest": "Shirt",
+      "foot": "Greaves",
+      "hand": "Dragonskin Gloves",
+      "head": "War Cap",
+      "neck": "Necklace",
+      "ring": "\"Death Tear\" Gold Ring of Giants",
+      "waist": "Mesh Belt",
+      "weapon": "Chronicle"
+    },
+"7798": {
+      "chest": "Dragonskin Armor",
+      "foot": "Wool Shoes of Brilliance",
+      "hand": "Holy Gauntlets",
+      "head": "Leather Cap",
+      "neck": "Pendant",
+      "ring": "Platinum Ring of Vitriol",
+      "waist": "War Belt of Power",
+      "weapon": "Chronicle of Protection"
+    },
+"7813": {
+      "chest": "\"Dusk Tear\" Holy Chestplate of Rage",
+      "foot": "Studded Leather Boots",
+      "hand": "Ornate Gauntlets",
+      "head": "Cap of Perfection",
+      "neck": "Pendant",
+      "ring": "Platinum Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"7820": {
+      "chest": "Silk Robe of Perfection",
+      "foot": "\"Dread Bite\" Silk Slippers of Fury +1",
+      "hand": "Holy Gauntlets",
+      "head": "Helm of Perfection",
+      "neck": "Pendant",
+      "ring": "Bronze Ring of Vitriol",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"7833": {
+      "chest": "\"Soul Root\" Holy Chestplate of Giants",
+      "foot": "\"Rune Whisper\" Divine Slippers of Perfection",
+      "hand": "Ornate Gauntlets",
+      "head": "Silk Hood",
+      "neck": "\"Vengeance Root\" Amulet of Rage",
+      "ring": "Gold Ring",
+      "waist": "Dragonskin Belt",
+      "weapon": "Chronicle of Detection"
+    },
+"7856": {
+      "chest": "Demon Husk",
+      "foot": "Wool Shoes",
+      "hand": "\"Dragon Root\" Studded Leather Gloves of Rage",
+      "head": "Hood",
+      "neck": "Amulet of Anger",
+      "ring": "Titanium Ring",
+      "waist": "Leather Belt",
+      "weapon": "Chronicle"
+    },
+"7873": {
+      "chest": "Divine Robe",
+      "foot": "Greaves",
+      "hand": "Holy Gauntlets of Titans",
+      "head": "Hood",
+      "neck": "Pendant",
+      "ring": "Titanium Ring",
+      "waist": "Wool Sash",
+      "weapon": "Chronicle"
+    },
+"7877": {
+      "chest": "\"Storm Whisper\" Holy Chestplate of Enlightenment",
+      "foot": "Demonhide Boots",
+      "hand": "\"Golem Roar\" Heavy Gloves of Enlightenment",
+      "head": "Great Helm",
+      "neck": "Pendant of Titans",
+      "ring": "Silver Ring",
+      "waist": "Demonhide Belt",
+      "weapon": "Chronicle"
+    },
+"7878": {
+      "chest": "Ring Mail",
+      "foot": "Greaves",
+      "hand": "Gloves",
+      "head": "Leather Cap",
+      "neck": "Necklace",
+      "ring": "Platinum Ring",
+      "waist": "Heavy Belt",
+      "weapon": "Chronicle"
+    },
+"7887": {
+      "chest": "Silk Robe",
+      "foot": "Studded Leather Boots",
+      "hand": "Divine Gloves",
+      "head": "Leather Cap of Rage",
+      "neck": "Necklace",
+      "ring": "Titanium Ring",
+      "waist": "Brightsilk Sash",
+      "weapon": "Chronicle"
+    },
+"7893": {
+      "chest": "Ring Mail",
+      "foot": "Holy Greaves",
+      "hand": "Ornate Gauntlets",
+      "head": "Linen Hood",
+      "neck": "Pendant",
+      "ring": "\"Rune Root\" Titanium Ring of Skill",
+      "waist": "Studded Leather Belt of Detection",
+      "weapon": "Chronicle"
+    },
+"7927": {
+      "chest": "Leather Armor of Rage",
+      "foot": "Greaves",
+      "hand": "Divine Gloves",
+      "head": "Divine Hood",
+      "neck": "Amulet",
+      "ring": "Titanium Ring of Titans",
+      "waist": "Silk Sash",
+      "weapon": "Chronicle of Giants"
+    },
+"7948": {
+      "chest": "Plate Mail",
+      "foot": "Heavy Boots",
+      "hand": "Wool Gloves",
+      "head": "Leather Cap",
+      "neck": "Pendant",
+      "ring": "\"Carrion Sun\" Platinum Ring of the Fox",
+      "waist": "Mesh Belt of Skill",
+      "weapon": "Chronicle of Skill"
+    },
+"7970": {
+      "chest": "\"Eagle Grasp\" Ornate Chestplate of Detection +1",
+      "foot": "Shoes",
+      "hand": "Wool Gloves of Vitriol",
+      "head": "Demon Crown of Power",
+      "neck": "Pendant",
+      "ring": "Silver Ring",
+      "waist": "Silk Sash of Titans",
+      "weapon": "Chronicle"
     }
   }
