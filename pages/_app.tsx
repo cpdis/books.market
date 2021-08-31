@@ -21,15 +21,15 @@ function Books({ Component, pageProps }) {
           rel="stylesheet"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@worm_emoji" />
-        <meta property="og:url" content="https://books.market" />
-        <meta property="og:title" content="books.market" />
+        <meta name="twitter:creator" content="@cpdis" />
+        <meta property="og:url" content="https://bookclub.market" />
+        <meta property="og:title" content="bookclub.market" />
         <link rel="icon" type="image/png" href="/favicon.png" />
         <meta
           property="og:description"
-          content="See the floor price of books from the Loot project."
+          content="See the floor price of Books from the Loot project."
         />
-        <meta property="og:image" content="https://books.market/og.png" />
+        <meta property="og:image" content="https://bookclub.market/og.png" />
       </Head>
     </>
   )

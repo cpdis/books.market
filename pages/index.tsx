@@ -34,7 +34,7 @@ const Book = ({ book }: { book: BookInfo }) => {
 const IndexPage = ({ books, lastUpdate }: Props) => {
   return (
     <div className="py-3 md:pb-0 font-mono flex flex-col justify-center items-center gap-4 pt-10 md:w-screen">
-      <h1 className="text-lg md:text-3xl">Bookstore</h1>
+      <h1 className="text-lg md:text-3xl">Book Club</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
           There are {books.length} bags for sale with books. The floor
