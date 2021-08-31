@@ -1499,6 +1499,11 @@
   dependencies:
     "reusify" "^1.0.4"
 
+"fathom-client@^3.1.0":
+  "integrity" "sha512-HUn4GBC+loLPMxvET4/FxY0nUCczCHXlik3nptQe8UTLnlB89cXHzk4hpNL45BxgePTLNK5bq0Qq/Dk1RFj/og=="
+  "resolved" "https://registry.npmjs.org/fathom-client/-/fathom-client-3.1.0.tgz"
+  "version" "3.1.0"
+
 "fill-range@^7.0.1":
   "integrity" "sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ=="
   "resolved" "https://registry.npmjs.org/fill-range/-/fill-range-7.0.1.tgz"
