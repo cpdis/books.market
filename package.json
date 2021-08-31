@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "ethers": "^5.4.6",
-    "fathom-client": "^3.1.0",
     "lodash": "^4.17.21",
     "next": "^11.1.0",
     "p-map": "^5.1.0",

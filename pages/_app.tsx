@@ -1,29 +1,6 @@
 import 'tailwindcss/tailwind.css'
-import { useEffect } from 'react';
-import { useRouter } from 'next/router';
-import * as Fathom from 'fathom-client';
 import Head from 'next/head'
 function Books({ Component, pageProps }) {
-  const router = useRouter();
-
-  useEffect(() => {
-    // Fathom Analytics
-    Fathom.load('YVWXLQOOP', {
-      includedDomains: ['bookclub.market'],
-    });
-
-    function onRouteChangeComplete() {
-      Fathom.trackPageview();
-    }
-    // Record a pageview when route changes
-    router.events.on('routeChangeComplete', onRouteChangeComplete);
-
-    // Unassign event listener
-    return () => {
-      router.events.off('routeChangeComplete', onRouteChangeComplete);
-    };
-  }, []);
-
   return (
     <>
       <Component {...pageProps} />
@@ -53,6 +30,7 @@ function Books({ Component, pageProps }) {
           content="See the floor price of Books from the Loot project."
         />
         <meta property="og:image" content="https://bookclub.market/og.png" />
+        <script src="https://cdn.usefathom.com/script.js" data-site="VWXLQOOP" defer></script>
       </Head>
     </>
   )
