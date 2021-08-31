@@ -1,6 +1,6 @@
 import 'tailwindcss/tailwind.css'
 import Head from 'next/head'
-function Robes({ Component, pageProps }) {
+function Books({ Component, pageProps }) {
   return (
     <>
       <Component {...pageProps} />
@@ -14,7 +14,7 @@ function Robes({ Component, pageProps }) {
         `}
       </style>
       <Head>
-        <title>robes.market</title>
+        <title>books.market</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&display=swap"
@@ -22,22 +22,17 @@ function Robes({ Component, pageProps }) {
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@worm_emoji" />
-        <meta property="og:url" content="https://robes.market" />
-        <meta property="og:title" content="robes.market" />
+        <meta property="og:url" content="https://books.market" />
+        <meta property="og:title" content="books.market" />
         <link rel="icon" type="image/png" href="/favicon.png" />
         <meta
           property="og:description"
-          content="See the floor price of Divine Robes from the Loot project."
+          content="See the floor price of books from the Loot project."
         />
-        <meta property="og:image" content="https://robes.market/og.png" />
-        <script
-          data-goatcounter="https://divinerobes.goatcounter.com/count"
-          async
-          src="//gc.zgo.at/count.js"
-        ></script>
+        <meta property="og:image" content="https://books.market/og.png" />
       </Head>
     </>
   )
 }
 
-export default Robes
+export default Books
