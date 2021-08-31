@@ -49,7 +49,7 @@ const IndexPage = ({ books, lastUpdate }: Props) => {
           >
             worm_emoji
           </a>.
-        books.market by{' '}
+        bookclub.market by{' '}
           <a
             target="_blank"
             href="https://twitter.com/cpdis"
